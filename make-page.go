@@ -91,7 +91,6 @@ func writePage(w io.Writer, pageName string) error {
 
 /*
 Get the markdown contents of a page, or of the 404 page if the files does not exit
-TODO: Parse the markdown into HTML
 */
 func pageContents(page string) string {
 	pageContents, err := ioutil.ReadFile("pages/" + page + ".md")
@@ -105,7 +104,6 @@ func pageContents(page string) string {
 
 /*
 Convert the page markdown content into HTML.
-TODO: Parse out breadcrumb.
 */
 func parseMarkdown(content string) (breadcrumb []string, htmlContent string, err error) {
 	if len(content) == 0 {
