@@ -28,6 +28,7 @@ import (
 	"net/http/cgi"
 	"net/url"
 	"os"
+	"strings"
 	"text/template"
 	"time"
 )
@@ -117,6 +118,13 @@ Convert the page markdown content into HTML.
 TODO: Parse out breadcrumb.
 */
 func parseMarkdown(content string) (breadcrumb []string, htmlContent string) {
+	header := strings.Split(content, "\n")
+	crumb := []string{"Home"}
+	if len(header) != 1 {
+		crumb = []string{strings.Replace(header[0], "$", "", 1)}
+		header = append(header[:0], header[1:]...)
+	}
+	content = strings.Join(header, "\n")
 	output := blackfriday.MarkdownCommon([]byte(content))
-	return []string{"Home"}, string(output[:])
+	return crumb, string(output[:])
 }
