@@ -114,8 +114,16 @@ func parseMarkdown(content string) (breadcrumb []string, htmlContent string, err
 
 	sections := strings.SplitN(content, "\n", 2)
 	if len(sections) != 2 {
-		return nil, "", errors.New("Content must contain a breadcrumb line (got " + string(len(sections)) + " sections)")
+		return nil, "", errors.New("Content must contain a breadcrumb line")
 	}
 
-	return strings.Split(sections[0], ","), string(blackfriday.MarkdownCommon([]byte(sections[1]))), nil
+	if len(sections[0]) == 0 {
+		breadcrumb = []string{}
+	} else {
+		breadcrumb = strings.Split(sections[0], ",")
+	}
+	htmlContent = string(blackfriday.MarkdownCommon([]byte(sections[1])))
+	err = nil
+
+	return
 }
