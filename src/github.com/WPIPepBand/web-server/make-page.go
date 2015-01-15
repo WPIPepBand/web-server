@@ -100,10 +100,11 @@ Get the markdown contents of a page, or of the 404 page if the files does not ex
 TODO: Parse the markdown into HTML
 */
 func pageContents(page string) string {
-	pageContents, err := ioutil.ReadFile("pages/" + page)
+	pageContents, err := ioutil.ReadFile("pages/" + page + ".md")
 	if err != nil {
 		pageContents, _ = ioutil.ReadFile("pages/404.md")
+		return string(pageContents) + "\n\n    " + err.Error()
+	} else {
+		return string(pageContents)
 	}
-
-	return string(pageContents)
 }
