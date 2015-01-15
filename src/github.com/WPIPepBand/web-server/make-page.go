@@ -19,7 +19,7 @@ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 package main
 
 import (
-	"encoding/json"
+	"errors"
 	"github.com/russross/blackfriday"
 	"io"
 	"io/ioutil"
@@ -36,7 +36,6 @@ import (
 type PageInfo struct {
 	Title      string
 	Breadcrumb []string
-	Filename   string
 	Contents   string
 	Year       int
 }
@@ -71,30 +70,21 @@ Get the full HTML of the given page and write it to the given Writer
 */
 func writePage(w io.Writer, pageName string) error {
 	templ, err := template.New("page").ParseFiles("template.html")
-
 	if err != nil {
 		return err
 	}
 
-	/* The title, filename, and breadcrumb are stored statically in a JSON file */
-	jsonFile, _ := os.Open("pages/pages.json")
-	jsonDecoder := json.NewDecoder(jsonFile)
-
-	var pages map[string]PageInfo
-	err = jsonDecoder.Decode(&pages)
-
+	breadcrumb, contents, err := parseMarkdown(pageContents(pageName))
 	if err != nil {
 		return err
 	}
-
-	var pageInfo PageInfo
-	pageInfo = pages[pageName]
 
 	/* The rest of the PageInfo fields are filled in dynamically */
-	breadcrumb, contents := parseMarkdown(pageContents(pageName))
-	pageInfo.Contents = contents
-	pageInfo.Breadcrumb = breadcrumb
+	var pageInfo PageInfo
+	pageInfo.Title = pageName
 	pageInfo.Year = time.Now().Year()
+	pageInfo.Breadcrumb = breadcrumb
+	pageInfo.Contents = contents
 
 	return templ.ExecuteTemplate(w, "template.html", pageInfo)
 }
@@ -117,14 +107,15 @@ func pageContents(page string) string {
 Convert the page markdown content into HTML.
 TODO: Parse out breadcrumb.
 */
-func parseMarkdown(content string) (breadcrumb []string, htmlContent string) {
-	header := strings.Split(content, "\n")
-	crumb := []string{"Home"}
-	if len(header) != 1 {
-		crumb = []string{strings.Replace(header[0], "$", "", 1)}
-		header = append(header[:0], header[1:]...)
+func parseMarkdown(content string) (breadcrumb []string, htmlContent string, err error) {
+	if len(content) == 0 {
+		return nil, "", errors.New("Empty file given")
 	}
-	content = strings.Join(header, "\n")
-	output := blackfriday.MarkdownCommon([]byte(content))
-	return crumb, string(output[:])
+
+	sections := strings.SplitN(content, "\n", 2)
+	if len(sections) != 2 {
+		return nil, "", errors.New("Content must contain a breadcrumb line (got " + string(len(sections)) + " sections)")
+	}
+
+	return strings.Split(sections[0], ","), string(blackfriday.MarkdownCommon([]byte(sections[1]))), nil
 }
