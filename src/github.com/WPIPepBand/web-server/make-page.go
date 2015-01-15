@@ -20,6 +20,7 @@ package main
 
 import (
 	"encoding/json"
+	"github.com/russross/blackfriday"
 	"io"
 	"io/ioutil"
 	"log"
@@ -89,7 +90,9 @@ func writePage(w io.Writer, pageName string) error {
 	pageInfo = pages[pageName]
 
 	/* The rest of the PageInfo fields are filled in dynamically */
-	pageInfo.Contents = pageContents(pageName)
+	breadcrumb, contents := parseMarkdown(pageContents(pageName))
+	pageInfo.Contents = contents
+	pageInfo.Breadcrumb = breadcrumb
 	pageInfo.Year = time.Now().Year()
 
 	return templ.ExecuteTemplate(w, "template.html", pageInfo)
@@ -107,4 +110,13 @@ func pageContents(page string) string {
 	} else {
 		return string(pageContents)
 	}
+}
+
+/*
+Convert the page markdown content into HTML.
+TODO: Parse out breadcrumb.
+*/
+func parseMarkdown(content string) (breadcrumb []string, htmlContent string) {
+	output := blackfriday.MarkdownCommon([]byte(content))
+	return []string{"Home"}, string(output[:])
 }
