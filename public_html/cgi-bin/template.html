@@ -48,6 +48,7 @@
             <nav class="navbar navbar-inverse navbar-fixed-top">
                 <div class="container">
                     <div class="navbar-header">
+                        <div class="visible-xs-inline-block" style="width:12px"></div>
                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar"></span>
@@ -58,44 +59,46 @@
                     </div>
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
-                            <li><a href="Home">Home</a></li>
+                            <li><a href="Home"><i class="glyphicon glyphicon-home"></i> Home</a></li>
 
                             <li class="dropdown">
-                                <a href="About" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+                                <a href="About" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-info-sign"></i> About <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="Current%20Members">Current Members</a></li>
-                                    <li><a href="Alumni">Alumni</a></li>
-                                    <li><a href="Previous%20Shows">Previous Shows</a></li>
-                                    <li><a href="Color%20Guard">Color Guard</a></li>
+                                    <li><a href="Current%20Members"><i class="glyphicon glyphicon-user"></i> Current Members</a></li>
+                                    <li><a href="Color%20Guard"><i class="glyphicon glyphicon-flag"></i> Color Guard</a></li>
+                                    <li><a href="Alumni"><i class="glyphicon glyphicon-user"></i> Alumni</a></li>
+                                    <li><a href="Previous%20Shows"><i class="glyphicon glyphicon-music"></i> Previous Shows</a></li>
                                 </ul>
                             </li>
 
-                            <li><a href="New%20Member%20FAQ">New Member FAQ</a></li>
+                            <li><a href="New%20Member%20FAQ"><i class="glyphicon glyphicon-question-sign"></i> New Member FAQ</a></li>
 
                             <li class="dropdown active">
-                                <a href="Information" class="dropdown-toggle" data-toggle="dropdown">Information <b class="caret"></b></a>
+                                <a href="Information" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-stats"></i> Information <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="Events">Events</a></li>
-                                    <li class="active"><a href="Constitution">Constitution</a></li>
-                                    <li><a href="Current%20Music">Current Music</a></li>
+                                    <li><a href="Events"><i class="glyphicon glyphicon-calendar"></i> Events</a></li>
+                                    <li class="active"><a href="Constitution"><i class="glyphicon glyphicon-file"></i> Constitution</a></li>
+                                    <li><a href="Current%20Music"><i class="glyphicon glyphicon-music"></i> Current Music</a></li>
                                 </ul>
                             </li>
 
                             <li class="dropdown">
-                                <a href="Media" class="dropdown-toggle" data-toggle="dropdown">Media <b class="caret"></b></a>
+                                <a href="Media" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-film"></i> Media <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="Photo%20Gallery">Photo Gallery</a></li>
-                                    <li><a href="Downloads">Downloads</a></li>
+                                    <li><a href="Photo%20Gallery"><i class="glyphicon glyphicon-picture"></i> Photo Gallery</a></li>
+                                    <li><a href="Downloads"><i class="glyphicon glyphicon-download"></i> Downloads</a></li>
                                 </ul>
                             </li>
 
-                            <li><a href="Contact%20Us">Contact Us</a></li>
+                            <li><a href="Contact%20Us"><i class="glyphicon glyphicon-comment"></i> Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
             </nav>
 
-            <div class="container" style="background-color: white;">
+            <div class="visible-sm-block" style="height:40px"></div>
+
+            <div class="container panel" style="background-color: white;">
                 <h1>The WPI Pep Band</h1>
 
                 <ol class="breadcrumb">
@@ -110,7 +113,8 @@
                 {{.Contents}}
             </div>
 
-            <br/><br/><br/><br/>
+            <div style="height:57px">
+            </div>
 
             <footer>
                 <p id="external-links">
