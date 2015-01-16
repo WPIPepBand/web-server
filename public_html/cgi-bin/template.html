@@ -126,5 +126,12 @@
 
         <script src="http://code.jquery.com/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
+
+        <script>
+            $(document).ready(function() {
+                $("table").addClass("table table-hover table-striped table-condensed");
+                $("table").wrap("<div class='table-responsive'></div>")
+            })
+        </script>
     </body>
 </html>
