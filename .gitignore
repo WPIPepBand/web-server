@@ -50,5 +50,5 @@ crashlytics-build.properties
 
 public_html/.htaccess
 *~
-web-server
 .htaccess
+public_html/cgi-bin/*.cgi
