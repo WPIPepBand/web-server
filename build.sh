@@ -1,4 +1,6 @@
 #!/bin/bash
+git submodule update
+
 echo "Reading config." >&2
 source $1
 echo "Config for the cgi-bin: $cgi_bin" >&2
