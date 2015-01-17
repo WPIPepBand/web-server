@@ -13,5 +13,4 @@ The band is a completely student-run organization and performs at all home WPI f
 
 Currently, we are looking for new members for football season! Please feel free to contact the band officers at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) if you have any questions or you are interested in joining us for football or basketball season. Additionally, we have a Winter Guard so please contact the officers if you would like to participate in that as well.
 
-**The WPI Pep Band has recently received the honor of being named the Organization of the Year. Way to go, Pep Band!**
-
+<div class="alert alert-success">The WPI Pep Band has recently received the honor of being named the Organization of the Year. Way to go, Pep Band!</div>
