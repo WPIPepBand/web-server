@@ -119,6 +119,9 @@ func parseMarkdown(content string) (breadcrumb []string, htmlContent string, err
 		breadcrumb = []string{}
 	} else {
 		breadcrumb = strings.Split(sections[0], ",")
+		for i, _ := range breadcrumb {
+			breadcrumb[i] = string(blackfriday.MarkdownCommon([]byte(breadcrumb[i])))
+		}
 	}
 	htmlContent = string(blackfriday.MarkdownCommon([]byte(sections[1])))
 	err = nil

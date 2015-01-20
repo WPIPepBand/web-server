@@ -1,4 +1,4 @@
-Home
+[Home](Home)
 
 ### Email
 - Officer Board: [pepoff@wpi.edu](mailto:pepoff@wpi.edu)

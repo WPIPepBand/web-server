@@ -1,4 +1,4 @@
-Home,About
+[Home](Home),About
 
 ### Don't play an instrument? Why not join Color Guard?
 

@@ -1,4 +1,4 @@
-Home
+[Home](Home)
 ### How do I sign up?
 This depends on whether you will be marching with us or not. If you're going to be marching, then we'll just need you to e-mail [pepoff@wpi.edu](mailto:pepoff@wpi.edu) confirming that you will in fact be joining so that we can get you permission to move in early. In order to secure a spot, you must let us know that you will be marching by **June 20th, 2013** (That's a Friday). If you're not going to be marching, then you don't need to come to Band Camp, and you don't need to move in early, so all you have to do is show up to the first (non-marching) rehearsal. You can either e-mail us and tell us to put you on the mailing list so you'll get a reminder, or you can just check the web page as fall approaches to find the date of the first rehearsal.
 

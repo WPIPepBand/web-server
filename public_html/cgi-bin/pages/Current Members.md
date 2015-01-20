@@ -1,4 +1,4 @@
-Home,About
+[Home](Home),About
 
 ### Officer Board
 

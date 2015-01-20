@@ -1,4 +1,4 @@
-Home,Info
+[Home](Home),Information
 
 ### Halftime show
 

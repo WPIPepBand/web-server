@@ -1,4 +1,4 @@
-Home,About
+[Home](Home),About
 
 <div class="container row">
 <div class="col-xs-12 col-sm-3">

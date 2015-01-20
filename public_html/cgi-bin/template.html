@@ -41,6 +41,10 @@
             #external-links img {
                 padding: 0px 4px;
             }
+
+	    .breadcrumb li p {
+		display: inline;
+	    }
         </style>
     </head>
     <body>
@@ -103,7 +107,7 @@
 
                 <ol class="breadcrumb">
                     {{range .Breadcrumb}}
-                    <li><a href="{{.}}">{{.}}</a></li>
+                    <li class="active">{{.}}</li>
                     {{end}}
                     <li class="active">{{.Title}}</li>
                 </ol>

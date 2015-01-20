@@ -1,4 +1,4 @@
-Home,About
+[Home](Home),About
 
 ### Legend
 * [2014 - Invincible](#2014)
