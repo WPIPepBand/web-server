@@ -140,10 +140,12 @@
             $(document).ready(function() {
                 $("table").addClass("table table-hover table-striped table-condensed");
                 $("table").wrap("<div class='table-responsive'></div>")
-                $('a[href="' + this.location.pathname.replace("/", "") + '"]').parent().addClass('active');
-                if ($('a[href="' + this.location.pathname.replace("/", "") + '"]').parent().parent().hasClass("dropdown-menu"))
+                var base = this.location.pathname.split("/");
+                base = base[base.length - 1];
+                $('a[href="' + base + '"]').parent().addClass('active');
+                if ($('a[href="' + base + '"]').parent().parent().hasClass("dropdown-menu"))
                 {
-                    $('a[href="' + this.location.pathname.replace("/", "") + '"]').parent().parent().parent().addClass("active");
+                    $('a[href="' + base + '"]').parent().parent().parent().addClass("active");
                 }
             })
         </script>
