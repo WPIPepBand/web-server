@@ -20,10 +20,10 @@ package main
 
 import (
 	"errors"
-	"github.com/russross/blackfriday"
 	"io"
 	"io/ioutil"
 	"log"
+	"math/rand"
 	"net/http"
 	"net/http/cgi"
 	"net/url"
@@ -31,10 +31,13 @@ import (
 	"strings"
 	"text/template"
 	"time"
+
+	"github.com/russross/blackfriday"
 )
 
 type PageInfo struct {
 	Title      string
+	Slogan     string
 	Breadcrumb []string
 	Contents   string
 	Year       int
@@ -79,9 +82,15 @@ func writePage(w io.Writer, pageName string) error {
 		return err
 	}
 
+	slogan, err := slogan()
+	if err != nil {
+		return err
+	}
+
 	/* The rest of the PageInfo fields are filled in dynamically */
 	var pageInfo PageInfo
 	pageInfo.Title = pageName
+	pageInfo.Slogan = slogan
 	pageInfo.Year = time.Now().Year()
 	pageInfo.Breadcrumb = breadcrumb
 	pageInfo.Contents = contents
@@ -127,4 +136,18 @@ func parseMarkdown(content string) (breadcrumb []string, htmlContent string, err
 	err = nil
 
 	return
+}
+
+/*
+Get a random line from the slogans.txt file.
+*/
+func slogan() (slogan string, err error) {
+	slogansContents, err := ioutil.ReadFile("slogans.txt")
+	if err != nil {
+		return
+	}
+
+	rand.Seed(time.Now().UTC().UnixNano())
+	slogans := strings.Split(string(slogansContents), "\n")
+	return slogans[rand.Intn(len(slogans)-1)], nil
 }

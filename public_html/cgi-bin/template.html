@@ -42,9 +42,14 @@
                 padding: 0px 4px;
             }
 
-	    .breadcrumb li p {
-		display: inline;
-	    }
+            .breadcrumb li p {
+                display: inline;
+            }
+
+            .slogan {
+                font-style: italic;
+                color: #B2B7BB;
+            }
         </style>
     </head>
     <body>
@@ -95,7 +100,10 @@
             <div class="visible-sm-block" style="height:40px"></div>
 
             <div class="container panel" style="background-color: white;">
-                <h1>The WPI Pep Band</h1>
+                <div class="page-header">
+                    <h1>The WPI Pep Band</h1>
+                    <span class="slogan"><em>{{.Slogan}}™</span>
+                </div>
 
                 <ol class="breadcrumb">
                     {{range .Breadcrumb}}
