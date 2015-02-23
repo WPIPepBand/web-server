@@ -6,3 +6,4 @@ echo "config for the htdocs: $htdocs" >&2
 
 #git submodule update --remote ./public_html/cgi-bin/pages
 go build -o "$cgi_bin"make-page.cgi ./make-page.go
+go build -o "$cgi_bin"anon-sugg.cgi ./anon-suggestion.go
