@@ -19,8 +19,8 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
+	"log"
 	"net/http"
 	"net/http/cgi"
 	"net/smtp"
@@ -35,28 +35,27 @@ func main() {
 	if err := cgi.Serve(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		header := w.Header()
 		header.Set("Content-Type", "text/plain; charset=utf-8")
+		http.Redirect(w, r, "../Contact Us", http.StatusFound)
+
 		r.ParseForm()
 		post := r.PostForm
-		fmt.Fprintln(w, "RemoteAddr:", r.RemoteAddr)
-		fmt.Fprintln(w, "Suggestion:", post.Get("suggestion"))
-		fmt.Fprintln(w, "Capcha Response:", post.Get("g-recaptcha-response"))
 		response, err := http.Get("https://www.google.com/recaptcha/api/siteverify?secret=6LfmVAETAAAAAIeSMi9xdgBN4A20HrvOfjBnvwS7&response=" +
 			post.Get("g-recaptcha-response") + "&remoteip=" + r.RemoteAddr)
-		fmt.Fprintln(w, err)
+		if err != nil {
+			log.Fatal(err)
+		}
 
 		body, err := ioutil.ReadAll(response.Body)
 		var res recaptchaResponse
-		json.Unmarshal(body, res)
-		fmt.Fprintln(w, string(body))
-		fmt.Fprintln(w, res.Success)
+		json.Unmarshal(body, &res)
 
 		if res.Success {
-			err := smtp.SendMail("localhost:25", nil, "pep-suggestion@wpi.edu", []string{"tjclark@wpi.edu"}, []byte("hello"))
+			err := smtp.SendMail("localhost:25", nil, "pep-suggestion@wpi.edu", []string{"tjclark@wpi.edu"}, []byte(post.Get("suggestion")))
 			if err != nil {
-				fmt.Println(err)
+				log.Fatal(err)
 			}
 		}
 	})); err != nil {
-		fmt.Println(err)
+		log.Fatal(err)
 	}
 }
