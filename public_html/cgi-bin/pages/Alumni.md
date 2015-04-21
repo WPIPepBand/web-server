@@ -14,7 +14,7 @@
 <li>Liz Fortner</li>
 <li>Jeannette Gerry</li>
 <li>Alex Gonzalez</li>
-<li>Victor Haley</li>
+<li>J. Victor Haley</li>
 <li>Jeremy Kibby</li>
 <li>Kara Negrini</li>
 <li>Jamie Pierce</li>

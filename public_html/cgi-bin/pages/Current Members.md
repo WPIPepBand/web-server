@@ -6,10 +6,10 @@
 |------|----------------|
 | Andrea Boxell | Secretary |
 | Garrett Holman | Assistant Drum Major |
-| Meena Khayami | Treasurer |
-| Kelsie Lazaro | President |
+| Thomas Clark | Treasurer |
+| Sam Mailand | President |
 | Peter Melander | Head Drum Major |
-| Rachel Prescott | Vice President |
+| Sophia Gudenrath | Vice President |
 
 ---
 
@@ -20,23 +20,23 @@
 |------|------------|
 | Corey Aday | Trombone |
 | Amanda Adkins | Trombone |
-| <span class="glyphicon glyphicon-star-empty"></span> Brett Ammeson | Clarinet |
-| <span class="glyphicon glyphicon-star-empty"></span> Matt Bailey | Percussion |
+| Brett Ammeson | Clarinet |
+| Matt Bailey | Percussion |
 | Hayley Boigenzahn | Mellophone |
 | Andrea Boxell | Flute/Piccolo |
 | Reed Busler | Baritone |
-| <span class="glyphicon glyphicon-star-empty"></span> Emily Cambrola | Alto Sax |
-| Stephanie Cappelli | Clarinet |
+| Emily Cambrola | Alto Sax |
+| <span class="glyphicon glyphicon-star-empty"></span> Stephanie Cappelli | Clarinet |
 | Thomas Clark | Trumpet |
 | Dan Corwin | Trumpet |
 | Christine Diedrich | Clarinet |
 | Natalie Diltz | Bari Sax |
 | Emily DiRuzza | Alto Sax |
 | Erin Ferguson | Flute |
-| <span class="glyphicon glyphicon-star-empty"></span> Luis Fernandez | Tuba |
+| Luis Fernandez | Tuba |
 | Adam Garcia | Percussion |
 | Sophia Gudenrath | Trombone |
-| Ben Hawks | Flute |
+| <span class="glyphicon glyphicon-star-empty"></span> Ben Hawks | Flute |
 | Thomas Hoctor | Baritone |
 | Garrett Holman | Alto Sax |
 | James Honicker | Tuba |
@@ -44,21 +44,21 @@
 | Rachel Huntley | Flute |
 | Meena Khayami | Trumpet |
 | Sam Kodzis | Percussion |
-| <span class="glyphicon glyphicon-star-empty"></span> Danielle LaRose | Flute |
-| <span class="glyphicon glyphicon-star-empty"></span> Kelsie Lazaro | Clarinet |
-| Andrew Libby | Percussion |
+| Danielle LaRose | Flute |
+| Kelsie Lazaro | Clarinet |
+| <span class="glyphicon glyphicon-star-empty"></span> Andrew Libby | Percussion |
 | Aidan Lippert | Percussion |
 | Arthur Lockman | Trombone |
 | Sam Mailand | Tenor Sax |
-| Kyle McCormick | Percussion |
+| <span class="glyphicon glyphicon-star-empty"></span> Kyle McCormick | Percussion |
 | Nick McGlew | Mellophone |
-| Tess Meier | Clarinet |
+| <span class="glyphicon glyphicon-star-empty"></span> Tess Meier | Clarinet |
 | Peter Melander | Band |
 | Elizabeth Miloscia | Mellophone |
-| Dan Murray | Mellophone |
+| <span class="glyphicon glyphicon-star-empty"></span> Dan Murray | Mellophone |
 | Paul Orvis | Electric Bass/Clarinet |
 | Benjamin Parent | Alto Sax |
-| Rachel Prescott | Tuba |
+| <span class="glyphicon glyphicon-star-empty"></span> Rachel Prescott | Tuba |
 | Andrew Ray | Trombone |
 | Veronica Riviera | Flute |
 | Nick Rowles | Percussion |
