@@ -1,9 +1,9 @@
 
 Welcome to the home page of the WPI Pep Band!
 
-Our halftime show for fall of 2014 will be ***James Bond***.
+Our halftime show for fall of 2015 will be ***James Bond***.
 
-Listen to the show [here:](http://www.jwpepper.com/marching-band-the-music-of-james-bond-show.list)
+Listen to the show [here.](http://www.jwpepper.com/marching-band-the-music-of-james-bond-show.list)
 
 To help prepare the halftime show, we will be holding a band camp from **August 18th - 21st**, which is immediately before New Student Orientation. If you will be joining us as a marching member, you will be required to attend. We will need you to let us know whether you are interested in marching with us by **Wednesday, July 15th**, in order to prepare for your arrival and band camp.
 
