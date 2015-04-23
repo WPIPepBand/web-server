@@ -8,7 +8,7 @@ Color Guard enhances the visual side of a marching show with flag and weapon wor
 ### What if I’ve never done Color Guard before?
 WPI's Color Guard is open to all levels of experience. People who have never even heard of color guard before are welcome to join and learn. The level of guard work in our show depends on who is writing it but usually stays at a beginner to intermediate level.  
 
-### Sounds cool, but I'm going to have a busy summer/A-term. Is there another chance for me to spin?
+### Sounds cool, but I'm too busy to march during the summer/A-term. Is there another chance for me to spin?
 
 Along with the marching show the Color Guard also has a Winter Guard show during basketball season. The shorter routine is performed during half time of basketball games to either recorded music or stands songs played by the pep band. Winter Guard typically runs from mid-November through late mid-February. 
 
