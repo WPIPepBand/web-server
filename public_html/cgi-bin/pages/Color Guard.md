@@ -18,10 +18,10 @@ If you would like to learn more about the WPI Color Guard, please email [pepoff@
 
 ### Pictures
 
-![Winter Guard 2015](/img/colorguard-winterguard2015.png)
+![Winter Guard 2015](img/colorguard-winterguard2015.png)
 
 *Winter Guard 2015*
 
-![Band Camp 2014](/img/colorguard-bandcamp2014.png)
+![Band Camp 2014](img/colorguard-bandcamp2014.png)
 
 *Band Camp 2014*
