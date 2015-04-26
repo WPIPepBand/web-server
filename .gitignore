@@ -52,3 +52,4 @@ public_html/.htaccess
 *~
 .htaccess
 public_html/cgi-bin/*.cgi
+server_config.cfg
