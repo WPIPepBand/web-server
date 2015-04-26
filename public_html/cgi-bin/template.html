@@ -47,6 +47,10 @@
                 padding-bottom: 32px;
             }
 
+            #contents img {
+                max-width: 100%;
+            }
+
             .external-links {
               padding: 4px 0px;
             }
@@ -127,7 +131,7 @@
 
                 <h2>{{.Title}}</h2>
 
-                {{.Contents}}
+                <div id="contents">{{.Contents}}</div>
             </div>
 
             <div style="height:89px">
