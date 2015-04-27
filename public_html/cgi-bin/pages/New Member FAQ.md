@@ -23,15 +23,15 @@ The Pep Band will provide breakfast, lunch, and dinner during band camp. There w
 
 ### How much of a time commitment is joining Pep Band?
 
-**Football season:**
+**Football season**
 
-***Marching:*** 6-8 hours per week of rehearsal with approximately 5 home games on Saturdays sometime between August and November.
+* ***Marching:*** 6-8 hours per week of rehearsal with approximately 5 home games on Saturdays sometime between August and November.
 
-***Stands:*** 1 hour per week of music rehearsal with approximately 5 home games on Saturdays sometime between August and November.
+* ***Stands:*** 1 hour per week of music rehearsal with approximately 5 home games on Saturdays sometime between August and November.
 
-***Basketball season:***
+**Basketball season**
 
-***Stands:*** 2 hours per week of music rehearsal with 2-3 games per week.
+* ***Stands:*** 2 hours per week of music rehearsal with 2-3 games per week.
 
 
 
@@ -47,7 +47,7 @@ Absolutely not! A large part of band camp will be dedicated to teaching marching
 ### I already know how to march. Do I need to attend Band Camp?
 Yes! We would like to make sure everyone in our marching band has a uniform marching style. Plus, we learn show music and drill during band camp, so it is necessary for every marching member to attend.
 
-###What about color guard?
+### What about color guard?
 Yes! We love our color guard! Our guard performs with the marching band in the fall and does an indoor show in the winter. We are open to members of all skill level, even if that means you have no experience.
 
 ### How "extreme" is this marching band?
