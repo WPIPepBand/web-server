@@ -10,6 +10,7 @@
 | Sam Mailand | President |
 | Peter Melander | Head Drum Major |
 | Sophia Gudenrath | Vice President |
+| Erin Ferguson | Membership Coordinator |
 
 ---
 
