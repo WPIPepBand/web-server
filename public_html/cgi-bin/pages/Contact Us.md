@@ -1,6 +1,6 @@
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
 [Home](Home)
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 ### Email
 - Officer Board: [pepoff@wpi.edu](mailto:pepoff@wpi.edu)
