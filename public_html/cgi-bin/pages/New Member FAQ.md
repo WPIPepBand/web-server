@@ -9,12 +9,12 @@ Band camp is for marching members only. During this time, we learn a good deal o
 Band Camp typically occurs during the week preceding New Student Orientation. Members living in on-campus housing will move in on the morning of the first day, and Band Camp will begin in the afternoon. There are no costs associated with moving in early for band camp. A detailed schedule with exact dates will be posted as the date approaches.
 
 ### Will food be provided during band camp?
-The Pep Band will provide breakfast, lunch, and dinner during band camp. There will be a $10 fee for meals. In addition to being cheap, these meals are also a great time to get acquainted with your fellow band members! If you have any dietary restrictions, please email [pepoff@wpi.edu](mailto:pepoff@wpi.edu).
+The Pep Band will provide breakfast, lunch, and dinner during band camp. There will be a small fee for meals. In addition to being cheap, these meals are also a great time to get acquainted with your fellow band members! If you have any dietary restrictions, please email [pepoff@wpi.edu](mailto:pepoff@wpi.edu).
 
 ### What are the costs associated with joining Pep Band?
 **All Members:** $15 Pep Band polo
 
-**Band Camp Attendees:** $10 food fee
+**Band Camp Attendees:** Food fee (typically $10, but may vary from year to year)
 
 **Marching Instrumental Members:** $30 Black marching shoes and black gloves
 
