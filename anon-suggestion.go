@@ -24,7 +24,6 @@ import (
 	"net/http"
 	"net/http/cgi"
 	"net/smtp"
-	"time"
 )
 
 type recaptchaResponse struct {
@@ -52,7 +51,6 @@ func main() {
 		}
 		var res recaptchaResponse
 		json.Unmarshal(body, &res)
-		t := time.Now()
 		suggheader := "Anonymous Suggestion" + "\n\n"
 		if res.Success {
 			err := smtp.SendMail("localhost:25", nil, "pep-suggestion@wpi.edu", []string{"pepoff@wpi.edu"}, []byte(suggheader+post.Get("suggestion")))
