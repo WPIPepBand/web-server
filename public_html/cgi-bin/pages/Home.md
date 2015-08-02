@@ -1,6 +1,41 @@
 
 Welcome to the home page of the WPI Pep Band!
 
+### Time remaining until band camp starts:
+
+
+<div id="band-camp-timer"></div>
+<div id="band-camp-message" class="alert alert-info" style="display: none;">
+    Band camp is currently taking place.  Get off your phone!
+</div>
+
+<script type="text/javascript">
+    $(function() {
+        var bandCamp = new Date(2015, 7, 18, 9);
+        var $bandCampSection = $('bandCampSection');
+
+        $(window).on("resize", function () {
+            var dif = Math.max($(window).height() - $bandCampSection.height(), 0);
+            var padding = Math.floor(dif / 2) + 'px';
+            $bandCampSection.css({ 'padding-top': padding, 'padding-bottom': padding });
+        }).trigger("resize");
+
+        $('#band-camp-timer').mbComingsoon({
+            expiryDate: bandCamp,
+            speed: 100,
+        });
+
+        setTimeout(function () {
+            $(window).resize();
+        }, 200);
+
+        if (new Date() > bandCamp) {
+            $("#band-camp-message").css("display", "block");
+        }
+    });
+</script>
+
+
 Our halftime show for fall of 2015 will be ***James Bond***.
 
 Listen to the show [here.](http://www.jwpepper.com/marching-band-the-music-of-james-bond-show.list)
