@@ -77,11 +77,13 @@
 | Samuel Mailand | Tenor Saxophone |
 | Shira Shartiag | Percussion |
 | Sonia Zarate | Color Guard |
+| Sophia Gudenrath | Trombone |
 | Color Guard | Trombone |
 | <span class="glyphicon glyphicon-star-empty"></span> Stephanie Cappelli | Clarinet |
 | Tanuj Sane | Clarinet |
 | <span class="glyphicon glyphicon-star-empty"></span> Tess Meier | Clarinet |
 | Clarinet | Trumpet |
+| Thomas Clark | Trumpet |
 | Thomas Hoctor | Baritone |
 | Veronica Rivera | Percussion |
 | Zachary Abbot | Trombone |
