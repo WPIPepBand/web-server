@@ -11,6 +11,7 @@
 | Peter Melander | Head Drum Major |
 | Sophia Gudenrath | Vice President |
 | Erin Ferguson | Membership Coordinator |
+| Rachel Huntley | Interim Membership Coordinator |
 
 ---
 
@@ -19,57 +20,76 @@
 
 | Name | Instrument |
 |------|------------|
-| Corey Aday | Trombone |
-| Amanda Adkins | Trombone |
-| Brett Ammeson | Clarinet |
-| Matt Bailey | Percussion |
-| Hayley Boigenzahn | Mellophone |
-| Andrea Boxell | Flute/Piccolo |
-| Reed Busler | Baritone |
-| Emily Cambrola | Alto Sax |
-| <span class="glyphicon glyphicon-star-empty"></span> Stephanie Cappelli | Clarinet |
-| Thomas Clark | Trumpet |
-| Dan Corwin | Trumpet |
-| Christine Diedrich | Clarinet |
-| Natalie Diltz | Bari Sax |
-| Emily DiRuzza | Alto Sax |
-| Erin Ferguson | Flute |
-| Luis Fernandez | Tuba |
-| Adam Garcia | Percussion |
-| Sophia Gudenrath | Trombone |
-| <span class="glyphicon glyphicon-star-empty"></span> Ben Hawks | Flute |
-| Thomas Hoctor | Baritone |
-| Garrett Holman | Alto Sax |
-| James Honicker | Tuba |
-| Sakiynah Howard | Trombone |
-| Rachel Huntley | Flute |
-| Meena Khayami | Trumpet |
-| Sam Kodzis | Percussion |
-| Danielle LaRose | Flute |
-| Kelsie Lazaro | Clarinet |
-| <span class="glyphicon glyphicon-star-empty"></span> Andrew Libby | Percussion |
+| Adam Maier | Tenor Saxophone |
 | Aidan Lippert | Percussion |
+| Alec Thompson | Tenor Saxophone |
+| Alexander Cruz | Tenor Saxophone |
+| Amanda Adkins | Trombone |
+| Amanda Alves | Flute |
+| Andrea Boxell | Color Guard |
+| Andrew Belz | Clarinet |
+| <span class="glyphicon glyphicon-star-empty"></span> Andrew Libby | Percussion |
+| Angela Calvi | Clarinet |
 | Arthur Lockman | Trombone |
-| Sam Mailand | Tenor Sax |
-| <span class="glyphicon glyphicon-star-empty"></span> Kyle McCormick | Percussion |
-| Nick McGlew | Mellophone |
-| <span class="glyphicon glyphicon-star-empty"></span> Tess Meier | Clarinet |
-| Peter Melander | Band |
-| Elizabeth Miloscia | Mellophone |
-| <span class="glyphicon glyphicon-star-empty"></span> Dan Murray | Mellophone |
-| Paul Orvis | Electric Bass/Clarinet |
-| Benjamin Parent | Alto Sax |
-| <span class="glyphicon glyphicon-star-empty"></span> Rachel Prescott | Tuba |
-| Andrew Ray | Trombone |
-| Veronica Riviera | Flute |
-| Nick Rowles | Percussion |
-| Ryan Santos | Percussion |
+| <span class="glyphicon glyphicon-star-empty"></span> Ben Hawks | Flute |
+| Benjamin Child | Alto Saxophone |
+| Benjamin Parent | Alto Saxophone |
+| Caroline Johnston | Percussion |
 | <span class="glyphicon glyphicon-star-empty"></span> Catherine Souza | Trumpet |
-| Alec Thompson | Tenor Sax |
-| Alex Titus | Trumpet |
-| Christina Webb | Clarinet |
+| Clifford Smith | Trombone |
+| Colette Ruden | Clarinet |
+| Corey Aday | Trombone |
+| Daniel Corwin | Trumpet |
+| <span class="glyphicon glyphicon-star-empty"></span> Dan Murray | Mellophone |
+| Emily DiRuzza | Alto Saxophone |
 | Emily Weber | Clarinet |
-| Ryan Welch | Trumpet |
+| Erika Snow | Clarinet |
+| Erika Stark | Clarinet |
+| Erin Ferguson | Percussion |
+| Garrett Holman | Drum Major |
+| Hayley Boigenzahn | Percussion |
+| Heather Cummings | Flute |
+| James Honicker | Tuba |
+| Jillian Onishi | Flute |
+| Kate Romero | Alto Saxophone |
+| Ken Lippo | Percussion |
+| Kodey Converse | Trumpet |
+| <span class="glyphicon glyphicon-star-empty"></span> Kyle McCormick | Percussion |
+| Kyle Werra | Percussion |
+| Liam Perry | Trumpet |
+| Lily Ouellette | Color Guard |
+| Luis Fernandez | Tuba |
+| Mary Osler | Clarinet |
+| Matthew Scanlon | Trumpet |
+| Michael Oswald | Alto Saxophone |
+| Mikala Dunbar | Percussion |
+| Natalie Diltz | Baritone Saxophone |
+| Owen France | Tenor Saxophone |
+| Paul Orvis | Clarinet |
+| Peter Melander | Drum Major |
+| Rachel Huntley | Flute |
+| <span class="glyphicon glyphicon-star-empty"></span> Rachel Prescott | Tuba |
+| Robbie Crockett | Baritone Saxophone |
+| Sakiynah Howard | Trombone |
+| Sam Robinson | Color Guard |
+| Samantha Moriarty | Flute |
+| Samantha Smith | Color Guard |
+| Samuel Mailand | Tenor Saxophone |
+| Shira Shartiag | Percussion |
+| Sonia Zarate | Color Guard |
+| Sophia Gudenrath | Trombone |
+| Color Guard | Trombone |
+| <span class="glyphicon glyphicon-star-empty"></span> Stephanie Cappelli | Clarinet |
+| Tanuj Sane | Clarinet |
+| <span class="glyphicon glyphicon-star-empty"></span> Tess Meier | Clarinet |
+| Clarinet | Trumpet |
+| Thomas Clark | Trumpet |
+| Thomas Hoctor | Baritone |
+| Veronica Rivera | Percussion |
+| Zachary Abbot | Trombone |
+| Zachary Whitmore | Percussion |
+
+
 
 ---
 
@@ -82,7 +102,6 @@
 | Princessa Cloutier | Trumpet |
 | Camneil Daly | Trumpet |
 | Brianna Fogal | Baritone |
-| Erica Ford | Clarinet |
 | Shaymus Hudson | Bari Sax |
 | Amy Kampa | Clarinet |
 | Allison Kenney | Trombone |
@@ -95,6 +114,5 @@
 | Johanna Santos | Flute |
 | Rachel Scaer | Trumpet |
 | Shira Shartiag | Percussion |
-| Lexi Shea | Flute/Tenor Sax |
 | Nicholas Sluzenski | Percussion |
 | Cristian Valerio | Baritone |
