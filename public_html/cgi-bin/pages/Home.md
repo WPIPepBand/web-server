@@ -1,4 +1,6 @@
 
+<img src="img/vintage pep.jpeg" class="img-responsive pull-right" />
+
 Welcome to the home page of the WPI Pep Band!
 
 Our halftime show for fall of 2015 will be ***James Bond***.
@@ -11,4 +13,5 @@ The band is a completely student-run organization and performs at all home WPI f
 
 Currently, we are looking for new members for football season! Please feel free to contact the band officers at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) if you have any questions or you are interested in joining us for football or basketball season. Additionally, we have a Winter Guard so please contact the officers if you would like to participate in that as well.
 
-<div class="alert alert-success">The WPI Pep Band has recently received the honor of being named the Organization of the Year. Way to go, Pep Band!</div>
+<b>The WPI Pep Band has recently received the honor of being named the Organization of the Year. Way to go, Pep Band!</b>
+
