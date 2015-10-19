@@ -16,9 +16,9 @@ The Pep Band will provide breakfast, lunch, and dinner during band camp. There w
 
 **Band Camp Attendees:** Food fee (typically $10, but may vary from year to year)
 
-**Marching Instrumental Members:** $30 Black marching shoes and black gloves
+**Marching Instrumental Members:** $30 Black marching shoes, black gloves, and black socks
 
-**Color Guard Members:** $30 Black marching shoes and color guard gloves
+**Color Guard Members:** $30 Black marching shoes, color guard gloves, and black socks
 
 
 ### How much of a time commitment is joining Pep Band?
