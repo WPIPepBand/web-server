@@ -11,7 +11,6 @@
 | Peter Melander | Head Drum Major |
 | Sophia Gudenrath | Vice President |
 | Erin Ferguson | Membership Coordinator |
-| Rachel Huntley | Interim Membership Coordinator |
 
 ---
 
