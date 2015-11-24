@@ -5,10 +5,11 @@
 | Name | Board Position |
 |------|----------------|
 | Andrea Boxell | Secretary |
+| Peter Melander | Head Drum Major |
 | Garrett Holman | Assistant Drum Major |
+| Clifford Smith | Assistant Drum Major |
 | Thomas Clark | Treasurer |
 | Sam Mailand | President |
-| Peter Melander | Head Drum Major |
 | Sophia Gudenrath | Vice President |
 | Erin Ferguson | Membership Coordinator |
 
