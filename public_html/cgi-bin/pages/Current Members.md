@@ -5,8 +5,7 @@
 | Name | Board Position |
 |------|----------------|
 | Andrea Boxell | Secretary |
-| Peter Melander | Head Drum Major |
-| Garrett Holman | Assistant Drum Major |
+| Garrett Holman | Head Drum Major |
 | Clifford Smith | Assistant Drum Major |
 | Thomas Clark | Treasurer |
 | Sam Mailand | President |
@@ -36,7 +35,7 @@
 | Benjamin Parent | Alto Saxophone |
 | Caroline Johnston | Percussion |
 | <span class="glyphicon glyphicon-star-empty"></span> Catherine Souza | Trumpet |
-| Clifford Smith | Trombone |
+| Clifford Smith | Drum Major |
 | Colette Ruden | Clarinet |
 | Corey Aday | Trombone |
 | Daniel Corwin | Trumpet |
@@ -66,7 +65,7 @@
 | Natalie Diltz | Baritone Saxophone |
 | Owen France | Tenor Saxophone |
 | Paul Orvis | Clarinet |
-| Peter Melander | Drum Major |
+| Peter Melander | Tuba |
 | Rachel Huntley | Flute |
 | <span class="glyphicon glyphicon-star-empty"></span> Rachel Prescott | Tuba |
 | Robbie Crockett | Baritone Saxophone |
