@@ -3,7 +3,7 @@
 
 Welcome to the home page of the WPI Pep Band!
 
-Our halftime show for fall of 2016 will be ***Queen***!
+Our halftime show for fall of 2016 will be ***Queen!***
 
 To help prepare the halftime show, we will be holding a band camp from **August 16th - 19th**, which is immediately before New Student Orientation. If you will be joining us as a marching member, you will be required to attend. We will need you to let us know whether you are interested in marching with us by **Friday, July 1st**, in order to prepare for your arrival and band camp.
 
