@@ -5,8 +5,8 @@
 ### Officer Board - [pepoff@wpi.edu](mailto:pepoff@wpi.edu)
 | Name | Board Position | Contact |
 |------|----------------|---------|
-| Clifford Smith | Head Drum Major | drummajors@wpi.edu(mailto:drummajors@wpi.edu) | 
-| Ethan Lauer | Assistant Drum Major | drummajors@wpi.edu(mailto:drummajors@wpi.edu) | 
+| Clifford Smith | Head Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
+| Ethan Lauer | Assistant Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
 | Veronica Rivera | President | [pep-president@wpi.edu](mailto: pep-president@wpi.edu) | 
 | Everest Peacock | Vice President | [pep-vp@wpi.edu](mailto:pep-vp@wpi.edu) |
 | Thomas Clark | Treasurer | [pep-treasurer@wpi.edu](mailto:pep-treasurer@wpi.edu) |
