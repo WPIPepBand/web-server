@@ -1,15 +1,15 @@
 [Home](Home)
 ### How do I sign up?
-To sign up, please email the officers at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) with your name, WPI student ID number, and instrument (or color guard!). In your email please indicate whether or not you would like to do marching band or just stands. If you would like to participate in the marching band, please send your email by June 19, 2015. Applications for stands are open year round. There are no auditions for either group.
+To sign up, please email the officers at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) with your name, WPI student ID number, and instrument (or color guard!). In your email please indicate whether you would like to do marching band or just stands. If you would like to participate in the marching band, please send your email by July 1, 2016. Applications for stands are open year round. There are no auditions for either group.
 
 ### What is Band Camp?
-Band camp is for marching members only. During this time, we learn a good deal of show music and drill. It’s also great fun with themed dress up days and other fun activities. This is mandatory for all marching members.  
+Band camp is for marching members only. During this time, we learn a good deal of show music and drill. It’s also great fun with themed dress up days and other fun activities. <b>This is mandatory for all marching members.</b>  
 
 ### When is Band Camp?
 Band Camp typically occurs during the week preceding New Student Orientation. Members living in on-campus housing will move in on the morning of the first day, and Band Camp will begin in the afternoon. There are no costs associated with moving in early for band camp. A detailed schedule with exact dates will be posted as the date approaches.
 
 ### Will food be provided during band camp?
-The Pep Band will provide breakfast, lunch, and dinner during band camp. There will be a small fee for meals. In addition to being cheap, these meals are also a great time to get acquainted with your fellow band members! If you have any dietary restrictions, please email [pepoff@wpi.edu](mailto:pepoff@wpi.edu).
+The Pep Band will provide breakfast, lunch, and dinner during band camp. There will be a small fee (~$10) for meals. In addition to being cheap, these meals are also a great time to get acquainted with your fellow band members! If you have any dietary restrictions, please email [pepoff@wpi.edu](mailto:pepoff@wpi.edu).
 
 ### What are the costs associated with joining Pep Band?
 **All Members:** $15 Pep Band polo

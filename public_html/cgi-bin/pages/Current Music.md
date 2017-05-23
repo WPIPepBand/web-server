@@ -2,7 +2,7 @@
 
 ### Halftime show
 
-Our 2014 halftime show was Invincible.  You can see our previous shows [here](Previous Shows).
+Our 2016 halftime show was Queen.  You can see our previous shows [here](Previous Shows).
 
 ---
 
