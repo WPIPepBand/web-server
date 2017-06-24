@@ -1,6 +1,8 @@
 [Home](Home),About
 
 ### Legend
+* [2016 - Queen](#2016)
+* [2015 - The Music of James Bond](#2015)
 * [2014 - Invincible](#2014)
 * [2013 - Star Trek Through the Years](#2013)
 * [2012 - Nightmare Before Christmas](#2012)
@@ -17,6 +19,23 @@
 * [2003 - 90s](#2003)
 * [2002 - Beatles](#2002)
 
+### 2016 - Queen
+- *Queen Opener (Bohemian Rhapsody, We Will Rock You, Another One Bites The Dust)*
+- *Don't Stop Me Now*
+- *Bicycle Race*
+
+<div class="well embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/ACPAGuOcpyw" allowfullscreen></iframe></div>
+<a name="2015"></a><br/>
+
+### 2015 - The Music of James Bond
+- *James Bond Theme*
+- *For Your Eyes Only*
+- *Die Another Day / Live and Let Die*
+
+<div class="well embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/cU09E_E43qQ" allowfullscreen></iframe></div>
+<a name="2014"></a><br/>
+
+### 2014 - Invincible
 <div class="well embed-responsive embed-responsive-16by9"><iframe src="//www.youtube.com/embed/xl3n6M3vZIc" allowfullscreen></iframe></div>
 <a name="2013"></a><br/>
 

@@ -3,7 +3,11 @@
 
 Welcome to the home page of the WPI Pep Band!
 
-Our halftime show for fall of 2017 will be ***Fall Out Boy!***
+| Our halftime show for fall of 2017 will be ***Fall Out Boy***! |
+|---|
+| I Don't Care | [Listen](https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10067890) |
+| Thnks Fr Th Mmrs (Thanks for the Memories) | [Listen](https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10090171) |
+| My Songs Know What You Did in the Dark (Light 'em Up) | [Listen](https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10441418) |
 
 To help prepare the halftime show, we will be holding a band camp from **August 15th - 18th**, which is immediately before New Student Orientation. If you will be joining us as a marching member, you will be required to attend. We will need you to let us know whether you are interested in marching with us by **Saturday, July 1st**, in order to prepare for your arrival and band camp.
 

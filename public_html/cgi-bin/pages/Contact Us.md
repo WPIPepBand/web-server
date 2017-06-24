@@ -9,9 +9,10 @@
 | Ethan Lauer | Assistant Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
 | Veronica Rivera | President | [pep-president@wpi.edu](mailto: pep-president@wpi.edu) | 
 | Everest Peacock | Vice President | [pep-vp@wpi.edu](mailto:pep-vp@wpi.edu) |
-| Thomas Clark | Treasurer | [pep-treasurer@wpi.edu](mailto:pep-treasurer@wpi.edu) |
+| Sam Moriarty | Treasurer | [pep-treasurer@wpi.edu](mailto:pep-treasurer@wpi.edu) |
 | Emily DiRuzza | Membership Coordinator | [pep-mc@wpi.edu](mailto:pep-mc@wpi.edu) |
 | Demi Karavoussianis | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
+| Sam Robinson | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
 
 ### Anonymous Suggestion Form
 <form action="cgi-bin/anon-sugg.cgi" method="POST">

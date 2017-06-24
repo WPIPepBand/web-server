@@ -1,169 +1,174 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <meta name="description" content="Worcester Polytechnic Institute Pep Band">
-        <meta name="HandheldFriendly" content="true" />
 
-        <title>WPI Pep Band | {{.Title}}</title>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="description" content="Worcester Polytechnic Institute Pep Band">
+    <meta name="HandheldFriendly" content="true" />
 
-        <link rel="icon" type="image/png" href="img/favicon.png?1">
-        <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-        <link href="css/mb-comingsoon.min.css" rel="stylesheet" media="screen">
+    <title>WPI Pep Band | {{.Title}}</title>
 
-        <script src="http://code.jquery.com/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.mb-comingsoon.min.js"></script>
+    <link rel="icon" type="image/png" href="img/favicon.png?1">
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/mb-comingsoon.min.css" rel="stylesheet" media="screen">
 
-        <!--[if lt IE 9]>
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.mb-comingsoon.min.js"></script>
+
+    <!--[if lt IE 9]>
           <script src='js/html5shiv.js'></script>
           <script src='js/respond.min.js'></script>
         <![endif]-->
 
-        <style>
-            @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,800);
-            @import url(http://fonts.googleapis.com/css?family=Bitter:400);
+    <style>
+        @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,800);
+        @import url(http://fonts.googleapis.com/css?family=Bitter:400);
+        html,
+        body {
+            height: 100%;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+        }
+        
+        .page-header {
+            margin-top: 0;
+        }
+        
+        nav li,
+        .dropdown-menu > li > a {
+            font-weight: 600;
+        }
+        
+        h1,
+        h2,
+        h3,
+        h4 {
+            font-family: Bitter, Helvetica, Arial, sans-serif;
+        }
+        
+        body {
+            padding-top: 64px;
+            background-color: #B2B7BB;
+        }
+        
+        footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 128px;
+            padding-top: 16px;
+            color: white;
+            background-color: #c41230;
+            text-align: center;
+        }
+        
+        .navbar-header {
+            padding-right: 16px;
+        }
+        
+        #wrapper {
+            min-height: 100%;
+            position: relative;
+            padding-bottom: 32px;
+        }
+        
+        #contents img {
+            max-width: 100%;
+        }
+        
+        .external-links {
+            padding: 4px 0px;
+        }
+        
+        .external-links img {
+            padding: 0px 4px;
+        }
+        
+        .breadcrumb li p {
+            display: inline;
+        }
+        
+        .slogan {
+            font-style: italic;
+            color: #B2B7BB;
+        }
+    </style>
+</head>
 
-            html, body {
-                height: 100%;
-                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-            }
-
-            .page-header {
-                margin-top: 0;
-            }
-
-            nav li, .dropdown-menu > li > a {
-                font-weight: 600;
-            }
-
-            h1, h2, h3, h4 {
-                font-family: Bitter, Helvetica, Arial, sans-serif;
-            }
-
-            body {
-                padding-top: 64px;
-                background-color: #B2B7BB;
-            }
-
-            footer {
-                position: absolute;
-                bottom: 0;
-                width: 100%;
-                height: 128px;
-                padding-top: 16px;
-                color: white;
-                background-color: #c41230;
-                text-align: center;
-            }
-
-            .navbar-header {
-                padding-right: 16px;
-            }
-
-            #wrapper {
-                min-height: 100%;
-                position: relative;
-                padding-bottom: 32px;
-            }
-
-            #contents img {
-                max-width: 100%;
-            }
-
-            .external-links {
-              padding: 4px 0px;
-            }
-
-            .external-links img {
-                padding: 0px 4px;
-            }
-
-            .breadcrumb li p {
-                display: inline;
-            }
-
-            .slogan {
-                font-style: italic;
-                color: #B2B7BB;
-            }
-        </style>
-    </head>
-    <body>
-        <div id="wrapper">
-            <nav class="navbar navbar-inverse navbar-fixed-top">
-                <div class="container">
-                    <div class="navbar-header">
-                        <div class="visible-xs-inline-block" style="width:12px"></div>
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a href="Home"><img src="img/got pep.svg" height="40px" style="padding-top: 12px;" alt="got pep?"/></a>
-                    </div>
-                    <div id="navbar" class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav">
-                            <li><a href="Home"><i class="glyphicon glyphicon-home"></i> Home</a></li>
-
-                            <li class="dropdown">
-                                <a href="About" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-info-sign"></i> About <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="Color%20Guard"><i class="glyphicon glyphicon-flag"></i> Color Guard</a></li>
-                                    <li><a href="Alumni"><i class="glyphicon glyphicon-user"></i> Alumni</a></li>
-                                    <li><a href="Previous%20Shows"><i class="glyphicon glyphicon-music"></i> Previous Shows</a></li>
-                                </ul>
-                            </li>
-
-                            <li><a href="New%20Member%20FAQ"><i class="glyphicon glyphicon-question-sign"></i> New Member FAQ</a></li>
-
-                            <li class="dropdown">
-                                <a href="Information" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-stats"></i> Information <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="Events"><i class="glyphicon glyphicon-calendar"></i> Events</a></li>
-                                    <li><a href="Constitution"><i class="glyphicon glyphicon-file"></i> Constitution</a></li>
-                                    <li><a href="Current%20Music"><i class="glyphicon glyphicon-music"></i> Current Music</a></li>
-                                </ul>
-                            </li>
-
-                            <li><a href="Contact%20Us"><i class="glyphicon glyphicon-comment"></i> Contact Us</a></li>
-                        </ul>
-                    </div>
+<body>
+    <div id="wrapper">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <div class="visible-xs-inline-block" style="width:12px"></div>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="Home"><img src="img/got pep.svg" height="40px" style="padding-top: 12px;" alt="got pep?" /></a>
                 </div>
-            </nav>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="Home"><i class="glyphicon glyphicon-home"></i> Home</a></li>
 
-            <div class="visible-sm-block" style="height:40px"></div>
+                        <li class="dropdown">
+                            <a href="About" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-info-sign"></i> About <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="Color%20Guard"><i class="glyphicon glyphicon-flag"></i> Color Guard</a></li>
+                                <li><a href="Previous%20Shows"><i class="glyphicon glyphicon-music"></i> Previous Shows</a></li>
+                            </ul>
+                        </li>
 
-            <div class="container panel" style="background-color: white;">
-                <div class="page-header">
-                    <h1>The WPI Pep Band</h1>
-                    <span class="slogan">{{.Slogan}}™</span>
+                        <li><a href="New%20Member%20FAQ"><i class="glyphicon glyphicon-question-sign"></i> New Member FAQ</a></li>
+
+                        <li class="dropdown">
+                            <a href="Information" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-stats"></i> Information <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="Events"><i class="glyphicon glyphicon-calendar"></i> Events</a></li>
+                                <li><a href="Constitution"><i class="glyphicon glyphicon-file"></i> Constitution</a></li>
+                                <li><a href="Current%20Music"><i class="glyphicon glyphicon-music"></i> Current Music</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="Contact%20Us"><i class="glyphicon glyphicon-comment"></i> Contact Us</a></li>
+                    </ul>
                 </div>
+            </div>
+        </nav>
 
-                <ol class="breadcrumb">
-                    {{range .Breadcrumb}}
-                    <li class="active">{{.}}</li>
-                    {{end}}
-                    <li class="active">{{.Title}}</li>
-                </ol>
+        <div class="visible-sm-block" style="height:40px"></div>
 
-                <h2>{{.Title}}</h2>
-
-                <div id="contents">{{.Contents}}</div>
+        <div class="container panel" style="background-color: white;">
+            <div class="page-header">
+                <h1>The WPI Pep Band</h1>
+                <span class="slogan">{{.Slogan}}™</span>
             </div>
 
-            <div style="height:89px">
-            </div>
+            <ol class="breadcrumb">
+                {{range .Breadcrumb}}
+                <li class="active">{{.}}</li>
+                {{end}}
+                <li class="active">{{.Title}}</li>
+            </ol>
 
-            <footer>
-                <div class="external-links">
-                    <a href="http://www.wpi.edu/"><img src="img/wpi seal.svg" alt="WPI"/></a>
-                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display: inline-block;">
-                      <input type="hidden" name="cmd" value="_s-xclick"/>
-                      <input type="image" src="img/donate.svg" border="0" name="submit" style="vertical-align: middle;" alt="Make payments with PayPal - it's fast, free and secure!"/>
-                      <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----
+            <h2>{{.Title}}</h2>
+
+            <div id="contents">{{.Contents}}</div>
+        </div>
+
+        <div style="height:89px">
+        </div>
+
+        <footer>
+            <div class="external-links">
+                <a href="http://www.wpi.edu/"><img src="img/wpi seal.svg" alt="WPI" /></a>
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display: inline-block;">
+                    <input type="hidden" name="cmd" value="_s-xclick" />
+                    <input type="image" src="img/donate.svg" border="0" name="submit" style="vertical-align: middle;" alt="Make payments with PayPal - it's fast, free and secure!" />
+                    <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----
 MIIHBgYJKoZIhvcNAQcEoIIG9zCCBvMCAQExggEwMIIBLAIBADCBlDCBjjELMAkG
 A1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQw
 EgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UE
@@ -203,32 +208,32 @@ gqBd+ri905B3zVJeW3x++4T6GnpnFUjKkhPUQdNrwOjPSKuN0ms4N3cpf5wpHo7I
 Yvb4FgkLILoO/AMM/rmioICue7ivzIPXtlvgVDCtcY2PUzW+/b6rcEyPpkP2DFv0
 c/j/czz89lDS/CapYbC6+uHKHJNedHjCnA0=
 -----END PKCS7-----
-"/>
-                    </form>
-                </div>
-                <div class="external-links">
-                    <a href="https://www.facebook.com/WPIPepBand"><img src="img/facebook.svg"/></a>
-                    <a href="https://orgsync.com/39120/chapter"><img src="img/techsync.svg"/></a>
-                    <a href="https://www.twitter.com/WPIPepBand"><img src="img/twitter.svg"/></a>
-                    <a href="https://github.com/WPIPepBand/"><img src="img/github.svg"/></a>
-                </div>
-                <p>Copyright © {{.Year}} WPI Pep Band</p>
-            </footer>
+" />
+                </form>
+            </div>
+            <div class="external-links">
+                <a href="https://www.facebook.com/WPIPepBand"><img src="img/facebook.svg" /></a>
+                <a href="https://orgsync.com/39120/chapter"><img src="img/techsync.svg" /></a>
+                <a href="https://www.twitter.com/WPIPepBand"><img src="img/twitter.svg" /></a>
+                <a href="https://github.com/WPIPepBand/"><img src="img/github.svg" /></a>
+            </div>
+            <p>Copyright © {{.Year}} WPI Pep Band</p>
+        </footer>
 
-        </div>
+    </div>
 
-        <script>
-            $(document).ready(function() {
-                $("table").addClass("table table-hover table-striped table-condensed");
-                $("table").wrap("<div class='table-responsive'></div>")
-                var base = this.location.pathname.split("/");
-                base = base[base.length - 1];
-                $('a[href="' + base + '"]').parent().addClass('active');
-                if ($('a[href="' + base + '"]').parent().parent().hasClass("dropdown-menu"))
-                {
-                    $('a[href="' + base + '"]').parent().parent().parent().addClass("active");
-                }
-            })
-        </script>
-    </body>
+    <script>
+        $(document).ready(function () {
+            $("table").addClass("table table-hover table-striped table-condensed");
+            $("table").wrap("<div class='table-responsive'></div>")
+            var base = this.location.pathname.split("/");
+            base = base[base.length - 1];
+            $('a[href="' + base + '"]').parent().addClass('active');
+            if($('a[href="' + base + '"]').parent().parent().hasClass("dropdown-menu")) {
+                $('a[href="' + base + '"]').parent().parent().parent().addClass("active");
+            }
+        })
+    </script>
+</body>
+
 </html>
