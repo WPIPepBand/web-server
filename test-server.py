@@ -25,7 +25,7 @@ class GoCGIHandler(CGIHTTPRequestHandler):
     
     def do_GET(self):
         print('In directory: ' + os.getcwd())
-        if self.is_cgi() and not 'cgi-bin' in os.getcwd(): os.chdir(public_html + os.sep + 'cgi-bin')
+        if self.is_cgi() and not 'cgi-bin' in os.getcwd(): os.chdir('cgi-bin')
         elif not self.is_cgi() and 'cgi-bin' in os.getcwd(): os.chdir(os.pardir)
         
         if self.is_cgi():
@@ -35,6 +35,8 @@ class GoCGIHandler(CGIHTTPRequestHandler):
         super(GoCGIHandler, self).do_GET()      # Let the superclass actually do the work
 
 if __name__ == '__main__':
+    os.chdir(public_html)
+    
     handler = GoCGIHandler
     tester = HTTPServer(('', 8080), handler)
     print('Serving http://pepband.wpi.edu locally on port 8080')
