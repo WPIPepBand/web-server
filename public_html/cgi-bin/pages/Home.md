@@ -1,9 +1,7 @@
 
-<img src="img/vintage pep.jpeg" class="img-responsive pull-right" />
-
 Welcome to the home page of the WPI Pep Band!
 
-Our halftime show for fall of 2017 will be ***Fall Out Boy***!
+Our halftime show for fall of 2017 will be ***Fall Out Boy!***
 
 - I Don't Care - [Listen](https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10067890)
 
