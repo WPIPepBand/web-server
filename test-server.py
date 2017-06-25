@@ -21,14 +21,16 @@ public_html = os.path.normpath('public_html')
 class GoCGIHandler(CGIHTTPRequestHandler):
     def is_cgi(self):
         self.cgi_info = '', 'make-page.cgi'     # Any request will always be to make-page.cgi
-        return True
+        return not '.' in self.path
     
     def do_GET(self):
-        os.chdir(public_html + os.sep + 'cgi-bin' if self.is_cgi() else public_html)
+        print('In directory: ' + os.getcwd())
+        if self.is_cgi() and not 'cgi-bin' in os.getcwd(): os.chdir(public_html + os.sep + 'cgi-bin')
+        elif not self.is_cgi() and 'cgi-bin' in os.getcwd(): os.chdir(os.pardir)
         
-        query = 'page=' + ('Home' if self.path == '/' else urllib.parse.unquote(self.path[1:]))
-        print(query)
-        os.environ['QUERY_STRING'] = query
+        if self.is_cgi():
+            query = 'page=' + ('Home' if self.path == '/' else urllib.parse.unquote(self.path[1:]))
+            os.environ['QUERY_STRING'] = query
         
         super(GoCGIHandler, self).do_GET()      # Let the superclass actually do the work
 
