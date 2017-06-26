@@ -1,6 +1,6 @@
 var songs = {
     'ACPAGuOcpyw': ['Queen Opener (Bohemian Rhapsody, We Will Rock You, Another One Bites The Dust)', 'Don’t Stop Me Now', 'Bicycle Race'],
-    'cU09E_E43qQ': ['James Bond Theme', 'For Your Eyes Only', 'Die Another Day / Live and Let Die'],
+    'cU09E_E43qQ': ['James Bond Theme', 'For Your Eyes Only / Goldfinger', 'Die Another Day / Live and Let Die'],
     'xl3n6M3vZIc': [],
     'pZEy0aDUL9U': ['Theme from Generations', 'Inner Light', 'Finale'],
     '2tLxlCJmVBk': ['Overture/Christmas Eve Montage', 'This is Halloween/The Oogie Boogie Song', 'Sally’s Song/Jack’s Obsession/End Title'],

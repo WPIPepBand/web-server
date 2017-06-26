@@ -35,7 +35,7 @@ The WPI Pep Band has 3 forms of membership:
 The Pep Band also offers physical education credit for those participating in football and/or basketball season. Participation in Pep Band for four seasons will therefore fulfill your university physical education requirement. Despite being available for academic credit, rehearsals and performances are still very casual and loads of fun.
 
 ---
-### Band Camp 2017:
+### Halftime Show 2017:
 <div id="inline-player" style="float:right;padding-left:10px;display:none;">
     <a id="close-inline-player" style="float:right;">[X]</a>
     <iframe id="inline-player-iframe" style="height:650px;width:650px"></iframe>

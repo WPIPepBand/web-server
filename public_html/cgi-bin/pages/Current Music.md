@@ -1,14 +1,29 @@
 [Home](Home),Information
 
-### Halftime show
+### Halftime Show 2017
 
-Our 2016 halftime show was Queen.  You can see our previous shows [here](Previous Shows).
+<div id="inline-player" style="float:right;padding-left:10px;display:none;">
+    <a id="close-inline-player" style="float:right;">[X]</a>
+    <iframe id="inline-player-iframe" style="height:650px;width:650px"></iframe>
+</div>
+
+Our halftime show for fall of 2017 will be ***Fall Out Boy!***
+
+| Songs | Link |
+|-------|------|
+| I Don't Care | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10067890">Listen >>></a> |
+| Thnks Fr Th Mmrs (Thanks for the Memories) | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10090171">Listen >>></a> |
+| My Songs Know What You Did in the Dark (Light 'em Up) | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10441418">Listen >>></a> |
+
+Shows from previous years can be found [here](Previous%20Shows).
+
+<script src="js/inline-player.js"></script>
 
 ---
 
 ### Stands Music
 
-<div class="alert alert-info">If you have a request, email it to <a href="mailto:pepoff@wpi.edu">pepoff@wpi.edu</a>, and we'll do the best we can to include it.</div>
+If you have a request, email it to <a href="mailto:pepoff@wpi.edu">pepoff@wpi.edu</a>, and we'll do the best we can to include it.
 
 * *25 or 6 to 4*
 * *Accidentally in Love*
