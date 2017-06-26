@@ -3,6 +3,19 @@
 
 The Pep Band is a completely student-run performance organization that plays at all WPI home football and basketball games, some away games, and occasional other games (non-WPI) happening in the area.
 
+<img src="img/banner.jpg" style="width:50%;">
+
+---
+#### Important Dates:
+
+Band Camp 2017: **August 15th - 18th**
+
+Deadline for Marching Applications: **Saturday, July 1st**
+
+---
+#### The Elevator Pitch:
+***The Pep Band is a spirited bunch that has much to offer its members, including friendship, pizza, movie nights, parties, and most importantly, good music!***
+
 ---
 #### The Basics:
 The WPI Pep Band has 3 forms of membership:
@@ -22,10 +35,6 @@ The WPI Pep Band has 3 forms of membership:
 The Pep Band also offers physical education credit for those participating in football and/or basketball season. Participation in Pep Band for four seasons will therefore fulfill your university physical education requirement. Despite being available for academic credit, rehearsals and performances are still very casual and loads of fun.
 
 ---
-#### The Elevator Pitch:
-***The Pep Band is a spirited bunch that has much to offer its members, including friendship, pizza, movie nights, parties, and most importantly, good music!***
-
----
 ### Band Camp 2017:
 <div id="inline-player" style="float:right;padding-left:10px;display:none;">
     <a id="close-inline-player" style="float:right;">[X]</a>
@@ -42,6 +51,6 @@ Our halftime show for fall of 2017 will be ***Fall Out Boy!***
 
 To help prepare the halftime show, we will be holding a band camp from **August 15th - 18th**, which is immediately before New Student Orientation. If you will be joining us as a marching member, you will be required to attend. We will need you to let us know whether you are interested in marching with us by **Saturday, July 1st**, in order to prepare for your arrival and band camp.
 
-Currently, we are looking for new members for football season! Please feel free to contact the officer board at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) if you have any questions or you are interested in joining us for football or basketball season. Additionally, we have a Winter Guard so please contact the officers if you would like to participate in that as well.
+Currently, we are looking for new members for football season! Please feel free to contact the officer board at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) if you have any questions or you are interested in joining us for football or basketball season.
 
 <script src="js/inline-player.js"></script>
