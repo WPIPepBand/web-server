@@ -22,7 +22,7 @@ The WPI Pep Band has 3 forms of membership:
 
 | Marching | Stands | Color Guard |
 |----------|--------|-------------|
-| - Perform in the halftime show during the football season |  | - Perform in the halftime show during the football season |
+| - Perform (play music, march drill) in the halftime show during the football season |  | - Perform (spin flags, rifles) in the halftime show during the football season |
 | - Play stands music in the stands for both football and basketball games | - Play stands music in the stands for both football and basketball games | |
 |  |  |- [Optional] Perform in the Winter Guard |
 | - Attend Band Camp (see below) |  | - Attend Band Camp (see below) |
