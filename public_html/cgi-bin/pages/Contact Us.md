@@ -7,8 +7,8 @@
 |------|----------------|---------|
 | Clifford Smith | Head Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
 | Ethan Lauer | Assistant Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
-| Veronica Rivera | President | [pep-president@wpi.edu](mailto: pep-president@wpi.edu) | 
-| Everest Peacock | Vice President | [pep-vp@wpi.edu](mailto:pep-vp@wpi.edu) |
+| Everest Peacock | President | [pep-president@wpi.edu](mailto: pep-president@wpi.edu) | 
+| Matthew Bisson | Vice President | [pep-vp@wpi.edu](mailto:pep-vp@wpi.edu) |
 | Sam Moriarty | Treasurer | [pep-treasurer@wpi.edu](mailto:pep-treasurer@wpi.edu) |
 | Emily DiRuzza | Membership Coordinator | [pep-mc@wpi.edu](mailto:pep-mc@wpi.edu) |
 | Demi Karavoussianis | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
