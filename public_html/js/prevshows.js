@@ -1,4 +1,5 @@
 var songs = {
+    'fw9zUo5z8Mc': ['Thanks For The Memories', 'I Dont Care', 'My Songs Know What You Did In The Dark'],
     'ACPAGuOcpyw': ['Queen Opener (Bohemian Rhapsody, We Will Rock You, Another One Bites The Dust)', 'Don’t Stop Me Now', 'Bicycle Race'],
     'cU09E_E43qQ': ['James Bond Theme', 'For Your Eyes Only / Goldfinger', 'Die Another Day / Live and Let Die'],
     'xl3n6M3vZIc': [],
