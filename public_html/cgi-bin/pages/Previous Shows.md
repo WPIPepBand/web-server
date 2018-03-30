@@ -2,6 +2,7 @@
 
 <nav class="sidebar col-md-3">
     <ul class="nav nav-sidebar">
+        <li class="playable" id="fw9zUo5z8Mc"><a>2017 - Fall Out Boy</a></li>
         <li class="playable" id="ACPAGuOcpyw"><a>2016 - Queen</a></li>
         <li class="playable" id="cU09E_E43qQ"><a>2015 - The Music of James Bond</a></li>
         <li class="playable" id="xl3n6M3vZIc"><a>2014 - Invincible</a></li>
@@ -19,16 +20,16 @@
     </ul>
 </nav>
 
-<h3 id="show">2016 - Queen</h3>
+<h3 id="show">2017 - Fall Out Boy</h3>
 <table class="table">
     <tbody id="songs">
-        <tr><td>Queen Opener (Bohemian Rhapsody, We Will Rock You, Another One Bites The Dust)</td></tr>
-        <tr><td>Don't Stop Me Now</td></tr>
-        <tr><td>Bicycle Race</td></tr>
+        <tr><td>Thanks For The Memories</td></tr>
+        <tr><td>I Dont Care</td></tr>
+        <tr><td>My Songs Know What You Did In The Dark</td></tr>
     </tbody>
 </table>
 
-<div class="well embed-responsive embed-responsive-16by9"><iframe id="player" src="https://www.youtube.com/embed/ACPAGuOcpyw" allowfullscreen></iframe></div>
+<div class="well embed-responsive embed-responsive-16by9"><iframe id="player" src="https://www.youtube.com/embed/fw9zUo5z8Mc" allowfullscreen></iframe></div>
 
 <script src="js/prevshows.js"></script>
 <!-- RIP this literally has ZERO Markdown anymore -->
