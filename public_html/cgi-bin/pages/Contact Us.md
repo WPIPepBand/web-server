@@ -5,14 +5,14 @@
 ### Officer Board - [pepoff@wpi.edu](mailto:pepoff@wpi.edu)
 | Name | Board Position | Contact |
 |------|----------------|---------|
-| Clifford Smith | Head Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
-| Ethan Lauer | Assistant Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
-| Everest Peacock | President | [pep-president@wpi.edu](mailto: pep-president@wpi.edu) | 
+| Ethan Lauer | Head Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
+| Sunny Shaidani | Assistant Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
+| Everest Peacock | President | [pep-president@wpi.edu](mailto:pep-president@wpi.edu) | 
 | Matthew Bisson | Vice President | [pep-vp@wpi.edu](mailto:pep-vp@wpi.edu) |
-| Sam Moriarty | Treasurer | [pep-treasurer@wpi.edu](mailto:pep-treasurer@wpi.edu) |
-| Emily DiRuzza | Membership Coordinator | [pep-mc@wpi.edu](mailto:pep-mc@wpi.edu) |
-| Demi Karavoussianis | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
-| Sam Robinson | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
+| Chris Rene | Treasurer | [pep-treasurer@wpi.edu](mailto:pep-treasurer@wpi.edu) |
+| Rene Dorer | Membership Coordinator | [pep-mc@wpi.edu](mailto:pep-mc@wpi.edu) |
+| Andrew Moore | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
+| Ally Robatzek | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
 
 ### Anonymous Suggestion Form
 <form action="cgi-bin/anon-sugg.cgi" method="POST">
