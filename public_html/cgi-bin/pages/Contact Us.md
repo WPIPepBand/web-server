@@ -10,7 +10,7 @@
 | Everest Peacock | President | [pep-president@wpi.edu](mailto:pep-president@wpi.edu) | 
 | Matthew Bisson | Vice President | [pep-vp@wpi.edu](mailto:pep-vp@wpi.edu) |
 | Chris Rene | Treasurer | [pep-treasurer@wpi.edu](mailto:pep-treasurer@wpi.edu) |
-| Rene Dorer | Membership Coordinator | [pep-mc@wpi.edu](mailto:pep-mc@wpi.edu) |
+| Renee Dorer | Membership Coordinator | [pep-mc@wpi.edu](mailto:pep-mc@wpi.edu) |
 | Andrew Moore | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
 | Ally Robatzek | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
 
