@@ -9,7 +9,7 @@ If you have any questions that are not answered here, feel free to [contact](Con
 
 #### How do I sign up?
 
-To sign up, please email the officers at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) with your name, WPI student ID number, and instrument (or color guard!). In your email please indicate whether you would like to do marching band or just stands. If you would like to participate in the marching band, please send your email by July 1, 2016. Applications for stands are open year round. There are no auditions for either group.
+To sign up, please email the officers at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) with your name, WPI student ID number, and instrument (or color guard!). In your email please indicate whether you would like to do marching band or just stands. If you would like to participate in the marching band, please send your email by July 1, 2018. Applications for stands are open year round. There are no auditions for either group.
 
 --
 
@@ -39,7 +39,7 @@ This largely depends on the sport, but in the vast majority of cases, the answer
 
 #### Are there instruments available to borrow?
 
-The Pep Band has a limited number of instruments available for members to borrow. If we do not have one for you, we will work with other music groups at the school to try and find one for you. For specific information on which instruments are available, please email [pepoff@wpi.edu](mailto:pepoff@wpi.edu).
+The Pep band has a limited number of instruments available to loan out.  However, if you want to play an instrument we do not have, we will work with you to find a solution.  This year, we are instituting a buy back program to make sure everyone can play what they want to!  Email pepoff [pepoff@wpi.edu](mailto:pepoff@wpi.edu) for more information!
 
 --
 
