@@ -49,7 +49,7 @@ Our halftime show for fall of 2017 will be ***Fall Out Boy!***
 | Thnks Fr Th Mmrs (Thanks for the Memories) | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10090171">Listen >>></a> |
 | My Songs Know What You Did in the Dark (Light 'em Up) | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10441418">Listen >>></a> |
 
-To help prepare the halftime show, we will be holding a band camp from **August 14th - 17th**, which is immediately before New Student Orientation. Drumline members should arrive a day early, August 13th, for part auditions. If you will be joining us as a marching member, you will be required to attend. We will need you to let us know whether you are interested in marching with us by **Saturday, July 1st**, in order to prepare for your arrival and band camp.
+To help prepare the halftime show, we will be holding a band camp from **August 14th - 17th**, which is immediately before New Student Orientation. Drumline members should arrive a day early, **August 13th**, for part auditions. If you will be joining us as a marching member, you will be required to attend. We will need you to let us know whether you are interested in marching with us by **Saturday, July 1st**, in order to prepare for your arrival and band camp.
 
 Currently, we are looking for new members for football season! Please feel free to contact the officer board at [pepoff@wpi.edu](mailto:pepoff@wpi.edu) if you have any questions or you are interested in joining us for football or basketball season.
 
