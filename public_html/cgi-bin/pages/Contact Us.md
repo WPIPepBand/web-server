@@ -16,6 +16,9 @@
 
 ### Meet the Officer Board
 
+<img src="everest_1.jpg" style="width:50%;">
+<img src="everest_2.jpg" style="width:50%;">
+
 **Name:** Everest Peacock
 
 **Major:** Chemical Engineering/ Mechanical Engineering
@@ -46,6 +49,8 @@ Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my c
 **Anything else?**
 The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
+<img src="renee.jpg" style="width:50%;">
+<img src="otherrenee.png" style="width:50%;">
 
 **Name:** Renee Dorer
 
@@ -73,7 +78,8 @@ Everest and I were actually at the same cello recital before coming to WPI! And 
 **Anything else?** Hi Mom! 
 Everest do you want to go to Home Depot with me?
 
-
+<img src="chris_1.jpg" style="width:50%;">
+<img src="chris_2.jpg" style="width:50%;">
 
 **Name:** Chris Rene
 
