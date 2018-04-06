@@ -14,12 +14,12 @@
 | Andrew Moore | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
 | Ally Robatzek | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
 
-<img src="fullboard.jpg" style="width:50%;">
+<img src="img/fullboard.jpg" style="width:50%;">
 
 ### Meet the Officer Board
 
-<img src="everest_1.jpg" style="width:50%;">
-<img src="everest_2.jpg" style="width:50%;">
+<img src="img/everest_1.jpg" style="width:50%;">
+<img src="img/everest_2.jpg" style="width:50%;">
 
 **Name:** Everest Peacock
 
@@ -51,8 +51,8 @@ Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my c
 **Anything else?**
 The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
-<img src="renee.jpg" style="width:50%;">
-<img src="otherrenee.png" style="width:50%;">
+<img src="img/renee.jpg" style="width:50%;">
+<img src="img/otherrenee.png" style="width:50%;">
 
 **Name:** Renee Dorer
 
@@ -80,8 +80,8 @@ Everest and I were actually at the same cello recital before coming to WPI! And 
 **Anything else?** Hi Mom! 
 Everest do you want to go to Home Depot with me?
 
-<img src="chris_1.jpg" style="width:50%;">
-<img src="chris_2.jpg" style="width:50%;">
+<img src="img/chris_1.jpg" style="width:50%;">
+<img src="img/chris_2.jpg" style="width:50%;">
 
 **Name:** Chris Rene
 
@@ -107,7 +107,7 @@ Everest do you want to go to Home Depot with me?
 
 **Anything else?** Have you heard Rolling Thunder Ethan?
 
-<img src="ethan.jpg" style="width:50%;">
+<img src="img/ethan.jpg" style="width:50%;">
 
 **Name:** Ethan Lauer
 
@@ -139,7 +139,7 @@ A Jalapeño, because I am short, hot and spicy.
 **Anything else?**
 Not at this time. You will find out eventually if you join the Band.
 
-<img src="sunny.jpg" style="width:50%;">
+<img src="img/sunny.jpg" style="width:50%;">
 
 **Name:** Sawnaz “Sunny” Shaidani
 
@@ -165,7 +165,7 @@ I am trilingual!
 **If you were any kind of pepper what kind would you be and why?**
 If I were a pepper, I would be a chili pepper because I am always cold, and the Red Hot Chili Peppers are my favorite band! 
 
-<img src="matt.jpg" style="width:50%;">
+<img src="img/matt.jpg" style="width:50%;">
 
 **Name:** Matthew Bisson
 
@@ -196,7 +196,7 @@ I would be Sergeant Pepper, because I have always wanted a Lonely Hearts Club Ba
 **Anything else?**
 Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 
-<img src="andrew.jpg" style="width:50%;">
+<img src="img/andrew.jpg" style="width:50%;">
 
 **Name:** Andrew Moore
 
