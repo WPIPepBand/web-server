@@ -14,7 +14,7 @@
 | Andrew Moore | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
 | Ally Robatzek | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
 
-<img src="img/fullboard.jpg" style="width:70%;">
+<img src="img/fullboard.jpg" style="width:70%;" align=center>
 
 ### Meet the Officer Board
 
