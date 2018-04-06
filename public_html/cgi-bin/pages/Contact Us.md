@@ -18,8 +18,8 @@
 
 ### Meet the Officer Board
 
-<img src="img/everest_1.jpg" style="width:50%;">
-<img src="img/everest_2.jpg" style="width:50%;">
+<img src="img/everest 1.jpg" style="width:50%;">
+<img src="img/everest 2.jpg" style="width:50%;">
 
 **Name:** Everest Peacock
 
@@ -80,8 +80,8 @@ Everest and I were actually at the same cello recital before coming to WPI! And 
 **Anything else?** Hi Mom! 
 Everest do you want to go to Home Depot with me?
 
-<img src="img/chris_1.jpg" style="width:50%;">
-<img src="img/chris_2.jpg" style="width:50%;">
+<img src="img/chris 1.jpg" style="width:50%;">
+<img src="img/chris 2.jpg" style="width:50%;">
 
 **Name:** Chris Rene
 
