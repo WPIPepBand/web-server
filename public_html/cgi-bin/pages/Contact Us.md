@@ -14,6 +14,8 @@
 | Demi Karavoussianis | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
 | Sam Robinson | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
 
+<img src="fullboard.jpg" style="width:50%;">
+
 ### Meet the Officer Board
 
 <img src="everest_1.jpg" style="width:50%;">
@@ -105,6 +107,7 @@ Everest do you want to go to Home Depot with me?
 
 **Anything else?** Have you heard Rolling Thunder Ethan?
 
+<img src="ethan.jpg" style="width:50%;">
 
 **Name:** Ethan Lauer
 
@@ -136,6 +139,7 @@ A Jalapeño, because I am short, hot and spicy.
 **Anything else?**
 Not at this time. You will find out eventually if you join the Band.
 
+<img src="sunny.jpg" style="width:50%;">
 
 **Name:** Sawnaz “Sunny” Shaidani
 
@@ -161,6 +165,7 @@ I am trilingual!
 **If you were any kind of pepper what kind would you be and why?**
 If I were a pepper, I would be a chili pepper because I am always cold, and the Red Hot Chili Peppers are my favorite band! 
 
+<img src="matt.jpg" style="width:50%;">
 
 **Name:** Matthew Bisson
 
@@ -191,6 +196,7 @@ I would be Sergeant Pepper, because I have always wanted a Lonely Hearts Club Ba
 **Anything else?**
 Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 
+<img src="andrew.jpg" style="width:50%;">
 
 **Name:** Andrew Moore
 
