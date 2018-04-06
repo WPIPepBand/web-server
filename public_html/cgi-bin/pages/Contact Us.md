@@ -50,7 +50,7 @@ Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my c
 **Anything else?**
 The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
-<img src="img/renee.jpg" style="width:50%;"> <img src="img/otherrenee.png" style="width:50%;">
+<img src="img/renee.jpg" style="width:50%;">
 
 **Name:** Renee Dorer
 
