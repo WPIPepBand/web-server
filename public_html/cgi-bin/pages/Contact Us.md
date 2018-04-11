@@ -18,7 +18,7 @@
 
 ### Meet the Officer Board
 
-<img src="img/everest 1.jpg" style="width:40%;" height=460>
+<img src="img/everest 2.jpg" style="width:40%;">
 
 **Name:** Everest Peacock
 
@@ -46,6 +46,9 @@ Concert band, plus spending a fair amount of time in the machine shops
 
 **If you were any kind of pepper what kind would you be and why?**
 Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my cooking.
+
+**Anything else?**
+The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
 <img src="img/renee.jpg" style="width:50%;">
 
