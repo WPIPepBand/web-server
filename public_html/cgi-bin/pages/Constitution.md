@@ -1,3 +1,3 @@
 [Home](Home),Information
 
-<iframe src="http://docs.google.com/gview?embedded=true&url=http://users.wpi.edu/~pepband/img/constitution.pdf" style="width: 100%; height: 800px; overflow: grow; border: none;"></iframe>
+<iframe src="https://drive.google.com/file/d/1LkjH-tby28l6SvQdYAaRBleqL3utPy5f/preview" width="640" height="480"></iframe>
