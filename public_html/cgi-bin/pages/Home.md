@@ -13,7 +13,7 @@ Band Camp 2018: **August 14th - 17th**
 Deadline for Marching Applications: **Saturday, July 1st**
 
 ---
-#### The Elevator Pitch:
+
 ***The Pep Band is a spirited bunch that has much to offer its members, including friendship, pizza, movie nights, parties, and most importantly, good music!***
 
 ---
