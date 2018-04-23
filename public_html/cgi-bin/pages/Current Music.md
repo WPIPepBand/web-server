@@ -1,6 +1,6 @@
 [Home](Home),Information
 
-### Halftime Show 2017
+### Halftime Show 2018
 
 <div id="inline-player" style="float:right;padding-left:10px;display:none;">
     <a id="close-inline-player" style="float:right;">[X]</a>
@@ -11,9 +11,9 @@ Stay tuned for the announcement of the 2018 show!
 
 | Songs | Link |
 |-------|------|
-| I Don't Care | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10067890">Listen >>></a> |
-| Thnks Fr Th Mmrs (Thanks for the Memories) | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10090171">Listen >>></a> |
-| My Songs Know What You Did in the Dark (Light 'em Up) | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10441418">Listen >>></a> |
+| Hooked on a Feeling | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10492397">Listen >>></a> |
+| Spirit in the Sky | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=10017911">Listen >>></a> |
+| I Want You Back | <a class="inline-playable" id="https://www.jwpepper.com/sheet-music/media-player.jsp?&type=audio&productID=2462679">Listen >>></a> |
 
 Shows from previous years can be found [here](Previous%20Shows).
 
