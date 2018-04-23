@@ -21,6 +21,8 @@ To sign up, please email the officers at [pepoff@wpi.edu](mailto:pepoff@wpi.edu)
 
 *Color Guard Members:* $30 Black marching shoes, color guard gloves, and black socks
 
+*Flipbook* $20 payment for flipbook rental. The $20 will be given back to the payer upon the return of the flipbook at the end of the year. Members of the drumline do not need to pay for a flipbook.
+
 --
 
 #### How much of a time commitment is joining Pep Band?
