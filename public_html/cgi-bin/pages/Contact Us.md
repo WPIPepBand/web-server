@@ -50,7 +50,7 @@ Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my c
 **Anything else?**
 The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
-<img src="img/renee.jpg" width="270" height="250">
+<img src="img/renee.jpg" width="290" height="250">
 
 **Name:** Renee Dorer
 
@@ -136,7 +136,7 @@ A Jalapeño, because I am short, hot and spicy.
 **Anything else?**
 Not at this time. You will find out eventually if you join the Band.
 
-<img src="img/sunny.jpg" width="615" height="615">
+<img src="img/sunny.jpg" width="307" height="307">
 
 **Name:** Sawnaz “Sunny” Shaidani
 
@@ -162,7 +162,7 @@ I am trilingual!
 **If you were any kind of pepper what kind would you be and why?**
 If I were a pepper, I would be a chili pepper because I am always cold, and the Red Hot Chili Peppers are my favorite band! 
 
-<img src="img/matt.jpg" width="330" height="340">
+<img src="img/matt.jpg" width="396" height="408">
 
 **Name:** Matthew Bisson
 
