@@ -14,11 +14,11 @@
 | Andrew Moore | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
 | Ally Robatzek | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
 
-<img src="img/fullboard.jpg" height="315" width="250" align=center>
+<img src="img/fullboard.jpg" style="width:70%;" align=center>
 
 ### Meet the Officer Board
 
-<img src="img/everest 2.jpg" style="width:40%;">
+<img src="img/everest 2.jpg" height="315" width="250">
 
 **Name:** Everest Peacock
 
@@ -50,7 +50,7 @@ Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my c
 **Anything else?**
 The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
-<img src="img/renee.jpg" style="width:50%;">
+<img src="img/renee.jpg" width="333" height="250" style="width:50%;">
 
 **Name:** Renee Dorer
 
@@ -78,7 +78,7 @@ Everest and I were actually at the same cello recital before coming to WPI! And 
 **Anything else?** Hi Mom! 
 Everest do you want to go to Home Depot with me?
 
-<img src="img/chris 2.jpg" style="width:50%;">
+<img src="img/chris 2.jpg" style="width:50%;" height="50%">
 
 **Name:** Chris Rene
 
