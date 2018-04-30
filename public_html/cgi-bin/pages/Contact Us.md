@@ -50,7 +50,7 @@ Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my c
 **Anything else?**
 The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
-<img src="img/renee.jpg" width="333" height="250" style="width:50%;">
+<img src="img/renee.jpg" width="300" height="250" style="width:50%;">
 
 **Name:** Renee Dorer
 
@@ -78,7 +78,7 @@ Everest and I were actually at the same cello recital before coming to WPI! And 
 **Anything else?** Hi Mom! 
 Everest do you want to go to Home Depot with me?
 
-<img src="img/chris 2.jpg" style="width:50%;" height="50%">
+<img src="img/chris 2.jpg" height="600" width="300">
 
 **Name:** Chris Rene
 
@@ -104,7 +104,7 @@ Everest do you want to go to Home Depot with me?
 
 **Anything else?** Have you heard Rolling Thunder Ethan?
 
-<img src="img/ethan.jpg" style="width:50%;">
+<img src="img/ethan.jpg" height="400" width="330">
 
 **Name:** Ethan Lauer
 
@@ -136,7 +136,7 @@ A Jalapeño, because I am short, hot and spicy.
 **Anything else?**
 Not at this time. You will find out eventually if you join the Band.
 
-<img src="img/sunny.jpg" style="width:50%;">
+<img src="img/sunny.jpg" width="625" height="615">
 
 **Name:** Sawnaz “Sunny” Shaidani
 
@@ -162,7 +162,7 @@ I am trilingual!
 **If you were any kind of pepper what kind would you be and why?**
 If I were a pepper, I would be a chili pepper because I am always cold, and the Red Hot Chili Peppers are my favorite band! 
 
-<img src="img/matt.jpg" style="width:50%;">
+<img src="img/matt.jpg" width="330" height="350">
 
 **Name:** Matthew Bisson
 
@@ -193,7 +193,7 @@ I would be Sergeant Pepper, because I have always wanted a Lonely Hearts Club Ba
 **Anything else?**
 Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 
-<img src="img/andrew.jpg" style="width:50%;">
+<img src="img/andrew.jpg" width="330" height="315">
 
 **Name:** Andrew Moore
 
