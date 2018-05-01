@@ -41,7 +41,7 @@ This largely depends on the sport, but in the vast majority of cases, the answer
 
 #### Are there instruments available to borrow?
 
-The Pep band has a limited number of instruments available to loan out.  However, if you want to play an instrument we do not have, we will work with you to find a solution.  This year, we are instituting a buy back program to make sure everyone can play what they want to!  Visit the [Buy Back Program](Information) page for more information.
+The Pep band has a limited number of instruments available to loan out.  However, if you want to play an instrument we do not have, we will work with you to find a solution.  This year, we are instituting a buy back program to make sure everyone can play what they want to!  Visit the [Buy Back Program](Buy%Back%Program) page for more information.
 
 --
 
