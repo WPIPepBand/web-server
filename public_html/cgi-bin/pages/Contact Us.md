@@ -50,7 +50,7 @@ Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my c
 **Anything else?**
 The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
-<img src="img/renee.jpg" width="290" height="250">
+<img src="img/renee.jpg" width="310" height="250">
 
 **Name:** Renee Dorer
 
@@ -136,7 +136,7 @@ A Jalapeño, because I am short, hot and spicy.
 **Anything else?**
 Not at this time. You will find out eventually if you join the Band.
 
-<img src="img/sunny.jpg" width="307" height="307">
+<img src="img/sunny.jpg" width="368" height="368">
 
 **Name:** Sawnaz “Sunny” Shaidani
 
