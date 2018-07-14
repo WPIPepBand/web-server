@@ -28,10 +28,9 @@ The WPI Pep Band has 3 forms of membership:
 | - Attend Band Camp (see below) |  | - Attend Band Camp (see below) |
 ||||
 
-<img style="padding: 0 15px; float: right;" src="img/bachhappy.jpg" style="width:50%;">
-
-
 **The band welcomes everyone** -- Don't be discouraged if you've never played, marched, or spun before; we can help you learn! See the [New Member FAQ](New%20Member%20FAQ) for more information about time commitments and other useful information.
+
+<img src="img/bachhappy.jpg" style="width:50%;">
 
 ---
 #### Credit:
