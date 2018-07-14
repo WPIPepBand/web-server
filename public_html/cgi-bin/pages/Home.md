@@ -32,12 +32,7 @@ The WPI Pep Band has 3 forms of membership:
 
 <img src="img/bachhappy.jpg" style="width:50%;" class="center">
 <style type="text/css">
-.center
-{
-text-align:center;
-display:block;
-}
-</style>
+
 ---
 #### Credit:
 The Pep Band also offers physical education credit for those participating in football and/or basketball season. Participation in Pep Band for four seasons will therefore fulfill your university physical education requirement. Despite being available for academic credit, rehearsals and performances are still very casual and loads of fun.
