@@ -220,9 +220,10 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 ### Anonymous Suggestion Form
 <form action="cgi-bin/anon-sugg.cgi" method="POST">
   <div class="form-group">
-    <label for="suggestion">Please enter your name and suggestion in the form below.</label>
+    <label for="suggestion">Please enter your suggestion in the box below.</label>
     <br>
-    <label for="namebox">Please enter your name.</label>
+    <label for="namebox">Please enter your name</label>
+    <br>
      <textarea class="form-name" rows="1" id="name" name="name"></textarea>
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
   </div>
