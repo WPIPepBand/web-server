@@ -3,7 +3,7 @@
 
 The Pep Band is a completely student-run performance organization that plays at all WPI home football and basketball games, a few away games, and occasional other events (non-WPI, like The Bachelor Winter Games) happening in the area.
 
-<img src="img/bachbanner.jpg" style="width:50%;">
+<center><img src="img/bachbanner.jpg" style="width:50%;"></center>
 
 ---
 #### Important Dates:
