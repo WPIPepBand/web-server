@@ -224,7 +224,7 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
     <br>
     <form action="/action_page.php">
   Name: <input type="text" name="usrname" required>
-  <input type="submit">
+  <!--<input type="submit">-->
 </form>
     <!--<label for="namebox">Please enter your name:</label>
     <br>
