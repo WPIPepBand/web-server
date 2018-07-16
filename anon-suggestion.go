@@ -53,7 +53,7 @@ func main() {
 		json.Unmarshal(body, &res)
 		suggheader := "Anonymous Suggestion" + "\n\n"
 		if res.Success {
-			err := smtp.SendMail("localhost:25", nil, "pep-suggestion@wpi.edu", []string{"pepoff@wpi.edu"}, []byte(suggheader+post.Get("suggestion")+"/n/n"+post.Get("name")))
+			err := smtp.SendMail("localhost:25", nil, "pep-suggestion@wpi.edu", []string{"pepoff@wpi.edu"}, []byte(suggheader+post.Get("suggestion")+"\n\n"+post.Get("name")))
 			if err != nil {
 				log.Fatal(err)
 			}
