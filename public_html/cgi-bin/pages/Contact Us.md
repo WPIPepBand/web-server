@@ -230,5 +230,5 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
   </div>
   <div class="g-recaptcha" data-sitekey="6LfmVAETAAAAANhDvy-hhZfjHKOo3TeUC30354LN"></div>
-  <button type="submit" class="btn btn-primary" style="margin: 10px 0">Submit</button>
+  <input type="submit" class="btn btn-primary" style="margin: 10px 0">Submit</button>
 </form>
