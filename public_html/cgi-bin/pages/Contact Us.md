@@ -230,7 +230,7 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 
 ### Named Suggestion Form
 Use this form if you wish for your name to be sent to the Membership Coordinator so they can help with more serious issues
-<form action="cgi-bin/anon-sugg.cgi" method="POST">
+<form action="cgi-bin/name-sugg.cgi" method="POST">
   <div class="form-group">
     <label for="suggestion">Please enter your suggestion in the box below.</label>
     <br>
@@ -245,7 +245,7 @@ Use this form if you wish for your name to be sent to the Membership Coordinator
 
 ### Advisor Suggestion Form
 Use this form if you have a very serious issue that you want our advisor to help with.
-<form action="cgi-bin/anon-sugg.cgi" method="POST">
+<form action="cgi-bin/advisor-sugg.cgi" method="POST">
   <div class="form-group">
     <label for="suggestion">Please enter your suggestion in the box below.</label>
     <br>
