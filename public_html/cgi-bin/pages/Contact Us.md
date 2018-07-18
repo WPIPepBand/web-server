@@ -222,9 +222,21 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
   <div class="form-group">
     <label for="suggestion">Please enter your suggestion in the box below.</label>
     <br>
+    <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
+  </div>
+  <div class="g-recaptcha" data-sitekey="6LfmVAETAAAAANhDvy-hhZfjHKOo3TeUC30354LN"></div>
+  <input type="submit" class="btn btn-primary" style="margin: 10px 0">Submit</button>
+</form>
+
+### Named Suggestion Form
+Use this form if you wish for your name to be sent to the Membership Coordinator so they can help with more serious issues
+<form action="cgi-bin/anon-sugg.cgi" method="POST">
+  <div class="form-group">
+    <label for="suggestion">Please enter your suggestion in the box below.</label>
+    <br>
  <!-- Name: <input type="text" name="usrname" required> -->
   <!--<input type="submit">-->
-    <label for="namebox">Please enter your name (it will only be sent to the Membership Coordinator so they can help with any serious issues):</label>
+    <label for="namebox">Please enter your name :</label>
     <br>
      <textarea class="form-name" rows="1" id="name" name="name" required></textarea>
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
@@ -233,14 +245,15 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
   <input type="submit" class="btn btn-primary" style="margin: 10px 0">Submit</button>
 </form>
 
-### Anonymous Suggestion Form
+### Advisor Suggestion Form
+Use this form if you have a very serious issue that you want our advisor to help with.
 <form action="cgi-bin/anon-sugg.cgi" method="POST">
   <div class="form-group">
     <label for="suggestion">Please enter your suggestion in the box below.</label>
     <br>
  <!-- Name: <input type="text" name="usrname" required> -->
   <!--<input type="submit">-->
-    <label for="namebox">Please enter your name (it will only be sent to the Membership Coordinator so they can help with any serious issues):</label>
+    <label for="namebox">Please enter your name:</label>
     <br>
      <textarea class="form-name" rows="1" id="name" name="name" required></textarea>
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
