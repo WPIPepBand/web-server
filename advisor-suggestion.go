@@ -54,7 +54,8 @@ func main() {
 		suggheader := "Anonymous Suggestion" + "\n\n"
 		if res.Success {
 			err := smtp.SendMail("localhost:25", nil, "pep-suggestion@wpi.edu", []string{"pepoff@wpi.edu"}, []byte(suggheader+post.Get("suggestion")))
-			smtp.SendMail("localhost:25", nil, "pep-suggestion@wpi.edu", []string{"pep-mc@wpi.edu"}, []byte(suggheader+post.Get("suggestion")+"\n\n"+post.Get("name")))
+			smtp.SendMail("localhost:25", nil, "pep-suggestion@wpi.edu", []string{"spasha@wpi.edu"}, []byte(suggheader+post.Get("suggestion")+"\n\n"+post.Get("name")))
+			/* this line sends an email with the name to our advisor.*/
 			if err != nil {
 				log.Fatal(err)
 			}
