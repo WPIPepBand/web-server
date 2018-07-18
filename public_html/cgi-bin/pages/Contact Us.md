@@ -235,6 +235,7 @@ Use this form if you wish for your name to be sent to the Membership Coordinator
     <label for="namebox">Please enter your name:</label>
     <br>
      <textarea class="form-name" rows="1" id="name" name="name" required></textarea>
+    <br>
     <label for="suggestion">Please enter your suggestion in the box below.</label>
     <br>
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
@@ -250,6 +251,7 @@ Use this form if you have a very serious issue that you want our advisor to help
     <label for="namebox">Please enter your name:</label>
     <br>
      <textarea class="form-name" rows="1" id="name" name="name" required></textarea>
+    <br>
     <label for="suggestion">Please enter your suggestion in the box below.</label>
     <br>
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
