@@ -232,11 +232,11 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 Use this form if you wish for your name to be sent to the Membership Coordinator so they can help with more serious issues
 <form action="cgi-bin/name-sugg.cgi" method="POST">
   <div class="form-group">
-    <label for="suggestion">Please enter your suggestion in the box below.</label>
-    <br>
     <label for="namebox">Please enter your name:</label>
     <br>
      <textarea class="form-name" rows="1" id="name" name="name" required></textarea>
+    <label for="suggestion">Please enter your suggestion in the box below.</label>
+    <br>
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
   </div>
   <div class="g-recaptcha" data-sitekey="6LfmVAETAAAAANhDvy-hhZfjHKOo3TeUC30354LN"></div>
@@ -247,11 +247,11 @@ Use this form if you wish for your name to be sent to the Membership Coordinator
 Use this form if you have a very serious issue that you want our advisor to help with.
 <form action="cgi-bin/advisor-sugg.cgi" method="POST">
   <div class="form-group">
-    <label for="suggestion">Please enter your suggestion in the box below.</label>
-    <br>
     <label for="namebox">Please enter your name:</label>
     <br>
      <textarea class="form-name" rows="1" id="name" name="name" required></textarea>
+    <label for="suggestion">Please enter your suggestion in the box below.</label>
+    <br>
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
   </div>
   <div class="g-recaptcha" data-sitekey="6LfmVAETAAAAANhDvy-hhZfjHKOo3TeUC30354LN"></div>
