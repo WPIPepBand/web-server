@@ -217,9 +217,12 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 
 **If you were any kind of pepper what kind would you be and why?** Bell pepper because I can't handle spice at all
 
-### Anonymous Suggestion Form
+### Suggestion Form
 <form action="cgi-bin/anon-sugg.cgi" method="POST">
   <div class="form-group">
+     <label for="namebox">Please enter your name:</label>
+    <br>
+     <textarea class="form-name" rows="1" id="name" name="name" required></textarea>
     <label for="suggestion">Please enter your suggestion in the box below.</label>
     <br>
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
@@ -228,8 +231,8 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
   <input type="submit" class="btn btn-primary" style="margin: 10px 0">Submit</button>
 </form>
 
-### Named Suggestion Form
-Use this form if you wish for your name to be sent to the Membership Coordinator so they can help with more serious issues
+### MC Suggestion Form
+Use this form if you wish for your name to only be sent to the Membership Coordinator so they can help with more serious issues
 <form action="cgi-bin/name-sugg.cgi" method="POST">
   <div class="form-group">
     <label for="namebox">Please enter your name:</label>
