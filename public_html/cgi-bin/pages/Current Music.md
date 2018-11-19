@@ -77,7 +77,7 @@ If you have a request, email it to <a href="mailto:pepoff@wpi.edu">pepoff@wpi.ed
 * *Sweet Georgia Brown*
 * *Take on Me*
 * *Tetris*
-* *Tequilla*
+* *Tequila*
 * *Time Warp*
 * *Title*
 * *Trololo*
