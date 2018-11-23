@@ -2,7 +2,7 @@
 
 <nav class="sidebar col-md-3">
     <ul class="nav nav-sidebar">
-        <li class="playable" id="8bx6fJp91rk"><a>2018 - Guardians of the Galaxy<a/></li>
+        <li class="playable" id="8bx6fJp91rk"><a>2018 - Guardians of the Galaxy</a></li>
         <li class="playable" id="fw9zUo5z8Mc"><a>2017 - Fall Out Boy</a></li>
         <li class="playable" id="ACPAGuOcpyw"><a>2016 - Queen</a></li>
         <li class="playable" id="cU09E_E43qQ"><a>2015 - The Music of James Bond</a></li>
