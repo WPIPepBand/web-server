@@ -2,6 +2,7 @@
 
 <nav class="sidebar col-md-3">
     <ul class="nav nav-sidebar">
+        <li class="playable" id="8bx6fJp91rk"><a>2018 - Guardians of the Galaxy<a/></li>
         <li class="playable" id="fw9zUo5z8Mc"><a>2017 - Fall Out Boy</a></li>
         <li class="playable" id="ACPAGuOcpyw"><a>2016 - Queen</a></li>
         <li class="playable" id="cU09E_E43qQ"><a>2015 - The Music of James Bond</a></li>
@@ -20,12 +21,12 @@
     </ul>
 </nav>
 
-<h3 id="show">2017 - Fall Out Boy</h3>
+<h3 id="show">2018 - Guardians of the Galaxy</h3>
 <table class="table">
     <tbody id="songs">
-        <tr><td>Thanks For The Memories</td></tr>
-        <tr><td>I Dont Care</td></tr>
-        <tr><td>My Songs Know What You Did In The Dark</td></tr>
+        <tr><td>Hooked on a Feeling</td></tr>
+        <tr><td>Spirit In The Sky</td></tr>
+        <tr><td>I Want You Back</td></tr>
     </tbody>
 </table>
 
