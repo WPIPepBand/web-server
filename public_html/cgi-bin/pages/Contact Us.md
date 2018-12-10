@@ -5,14 +5,14 @@
 ### Officer Board - [pepoff@wpi.edu](mailto:pepoff@wpi.edu)
 | Name | Board Position | Contact |
 |------|----------------|---------|
-| Ethan Lauer | Head Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
-| Sunny Shaidani | Assistant Drum Major | [drummajors@wpi.edu](mailto:drummajors@wpi.edu) | 
-| Everest Peacock | President | [pep-president@wpi.edu](mailto:pep-president@wpi.edu) | 
-| Matthew Bisson | Vice President | [pep-vp@wpi.edu](mailto:pep-vp@wpi.edu) |
-| Chris Rene | Treasurer | [pep-treasurer@wpi.edu](mailto:pep-treasurer@wpi.edu) |
-| Renee Dorer | Membership Coordinator | [pep-mc@wpi.edu](mailto:pep-mc@wpi.edu) |
-| Andrew Moore | Secretary | [pep-secretary@wpi.edu](mailto:pep-secretary@wpi.edu) |
-| Ally Robatzek | Color Guard Captain | [pep-guardcaptain@wpi.edu](mailto:pep-guardcaptain@wpi.edu) |
+| Ethan Lauer | Head Drum Major | [ealauer@wpi.edu](mailto:ealauer@wpi.edu) | 
+| Sunny Shaidani | Assistant Drum Major | [sshaidani@wpi.edu](mailto:sshaidani@wpi.edu) | 
+| Everest Peacock | President | [ejpeacock@wpi.edu](mailto:ejpeacock@wpi.edu) | 
+| Matthew Bisson | Vice President | [mcbisson@wpi.edu](mailto:mcbisson@wpi.edu) |
+| Chris Rene | Treasurer | [cmrene@wpi.edu](mailto:cmrene@wpi.edu) |
+| Chloe Melville | Membership Coordinator | [cemelville@wpi.edu](mailto:cemelville@wpi.edu) |
+| Mary LePage | Secretary | [mslepage@wpi.edu](mailto:mslepage@wpi.edu) |
+| Ally Robatzek | Color Guard Captain | [alrobatzek@wpi.edu](mailto:alrobatzek@wpi.edu) |
 
 <img src="img/fullboard.jpg" style="width:70%;" align=center>
 
