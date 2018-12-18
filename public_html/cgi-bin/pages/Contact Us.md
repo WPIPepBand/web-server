@@ -1,12 +1,20 @@
 [Home](Home)
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  </style>
 
 ### Officer Board - [pepoff@wpi.edu](mailto:pepoff@wpi.edu)
 | Name | Board Position | Contact |
 |------|----------------|---------|
 | Ethan Lauer | Head Drum Major | [ealauer@wpi.edu](mailto:ealauer@wpi.edu) | 
-| Sunny Shaidani | Assistant Drum Major | [sshaidani@wpi.edu](mailto:sshaidani@wpi.edu) | 
+| Matt Nicastro | Assistant Drum Major | [mjnicastro@wpi.edu](mailto:mjnicastro@wpi.edu) | 
 | Everest Peacock | President | [ejpeacock@wpi.edu](mailto:ejpeacock@wpi.edu) | 
 | Matthew Bisson | Vice President | [mcbisson@wpi.edu](mailto:mcbisson@wpi.edu) |
 | Chris Rene | Treasurer | [cmrene@wpi.edu](mailto:cmrene@wpi.edu) |
@@ -18,7 +26,7 @@
 
 ### Meet the Officer Board
 
-<img src="img/everest 2.jpg" height="315" width="250">
+<img src="img/everest 2.jpg" height="315" width="250" class="center">
 
 **Name:** Everest Peacock
 
@@ -50,7 +58,7 @@ Chili pepper! I’m small, always chilly, and tend to use a lot of spice in my c
 **Anything else?**
 The dog’s name is Levi, I bring him on adventures hiking and trail running!
 
-<img src="img/renee.jpg" width="310" height="250">
+<img src="img/renee.jpg" width="310" height="250" class="center">
 
 **Name:** Renee Dorer
 
@@ -78,7 +86,7 @@ Everest and I were actually at the same cello recital before coming to WPI! And 
 **Anything else?** Hi Mom! 
 Everest do you want to go to Home Depot with me?
 
-<img src="img/chris 2.jpg" height="500" width="300">
+<img src="img/chris 2.jpg" height="500" width="300" class="center">
 
 **Name:** Chris Rene
 
@@ -104,7 +112,7 @@ Everest do you want to go to Home Depot with me?
 
 **Anything else?** Have you heard Rolling Thunder Ethan?
 
-<img src="img/ethan.jpg" height="400" width="330">
+<img src="img/ethan.jpg" height="400" width="330" class="center">
 
 **Name:** Ethan Lauer
 
@@ -136,33 +144,36 @@ A Jalapeño, because I am short, hot and spicy.
 **Anything else?**
 Not at this time. You will find out eventually if you join the Band.
 
-<img src="img/sunny.jpg" width="368" height="368">
+<img src="img/MattNicastro.jpg" width="368" height="368" class="center">
 
-**Name:** Sawnaz “Sunny” Shaidani
+**Name:** Matt Nicastro
 
-**Major:** Biomedical Engineering
+**Major:** Mechanincal Engineering
 
-**Class year:** 2021
+**Class year:** 2022
 
 **Position:** Assistant Drum Major
 
-**Section/instrument:** Clarinet
+**Section/instrument:** Hands (formerly Baritone)
 
 **Favorite color:** Green 
 
-**Favorite tree:** Whomping Willow
+**Favorite tree:** Aspen trees because of the way that they are.
 
-**What was your favorite WPI memory?** My favorite WPI memory was doing the night campus tour with my section after band camp ended.
+**What was your favorite WPI memory?** Snowball fights outside of Alden after practice.
 
 **What's a fun fact about you?**
-I am trilingual! 
+I like doing American Ninja Warrior training stuff and I can do a 16 foot warped wall.
 
-**What other organizations are you involved in?** I am a Research Assistant at the Stem Education Center, and I am also in Concert Band.
+**What other organizations are you involved in?** Concert band and brass ensemble.
 
 **If you were any kind of pepper what kind would you be and why?**
-If I were a pepper, I would be a chili pepper because I am always cold, and the Red Hot Chili Peppers are my favorite band! 
+Peppermint because I don’t like actual peppers.
 
-<img src="img/matt.jpg" width="396" height="408">
+**Anything Else**
+Double bell euphoniums are cool!
+
+<img src="img/matt.jpg" width="396" height="408" class="center">
 
 **Name:** Matthew Bisson
 
@@ -193,29 +204,30 @@ I would be Sergeant Pepper, because I have always wanted a Lonely Hearts Club Ba
 **Anything else?**
 Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 
-<img src="img/andrew.jpg" width="330" height="315">
+<img src="img/MaryLePage.jpg" width="330" height="315" class="center">
 
-**Name:** Andrew Moore
+**Name:** Mary LePage
 
-**Major:** ECE
+**Major:** Civil Engineering
 
-**Class year:** 2020
+**Class year:** 2022
 
 **Position:** Secretary
 
-**Section/instrument:** Drumline
+**Section/instrument:** Low Brass/Tenor Sax
 
-**Favorite color:** Cyan
+**Favorite color:** Whatever cool color I saw last
 
-**Favorite tree:** An AVL Tree
+**Favorite tree:** Maple
 
-**What was your favorite WPI memory?** Finding a huge (60 lbs) CRT at the e-Waste drive last D term, and helping Lorenzo haul it down the hill to Institute. The TV is in still in our apartment.
+**What was your favorite WPI memory?** Just being here every day and being surrounded by awesome people all the time. 
 
-**What's a fun fact about you?** I'm from Hawaii. Enough said.
+**What's a fun fact about you?** I played flute in high school and didn't pick up the tenor sax until the summer before my freshman year here.  Freshman band camp was also "learn how to play saxophone week".
 
-**What other organizations are you involved in?** Concert Band, Orchestra, Percussion Ensemble
+**What other organizations are you involved in?** Student Alumni Society.
 
-**If you were any kind of pepper what kind would you be and why?** Bell pepper because I can't handle spice at all
+
+**If you were any kind of pepper what kind would you be and why?** Yellow bell pepper because it's my favorite kind of pepper and I strive to be the best I can be.
 
 ### Suggestion Form
 <form action="cgi-bin/anon-sugg.cgi" method="POST">
