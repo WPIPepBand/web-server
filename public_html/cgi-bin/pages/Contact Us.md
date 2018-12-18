@@ -144,7 +144,7 @@ A Jalapeño, because I am short, hot and spicy.
 **Anything else?**
 Not at this time. You will find out eventually if you join the Band.
 
-<img src="img/MattNicastro.jpg" width="368" height="368" class="center">
+<img src="img/MattNicastro.png" width="368" height="368" class="center">
 
 **Name:** Matt Nicastro
 
@@ -204,7 +204,7 @@ I would be Sergeant Pepper, because I have always wanted a Lonely Hearts Club Ba
 **Anything else?**
 Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
 
-<img src="img/MaryLePage.jpg" width="330" height="315" class="center">
+<img src="img/MaryLePage.jpeg" width="330" height="315" class="center">
 
 **Name:** Mary LePage
 
