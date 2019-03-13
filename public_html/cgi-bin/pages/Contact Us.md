@@ -240,7 +240,7 @@ Does Bass 5 count as a Sonic Weapon under the Geneva Convention?
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
   </div>
   <div class="g-recaptcha" data-sitekey="6LfmVAETAAAAANhDvy-hhZfjHKOo3TeUC30354LN"></div>
-  <input type="submit" class="btn btn-primary" style="margin: 10px 0">Submit</button>
+  <input type="submit" class="btn btn-primary" style="margin: 10px 0"></button>
 </form>
 
 ### MC Suggestion Form
@@ -256,7 +256,7 @@ Use this form if you wish for your name to only be sent to the Membership Coordi
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
   </div>
   <div class="g-recaptcha" data-sitekey="6LfmVAETAAAAANhDvy-hhZfjHKOo3TeUC30354LN"></div>
-  <input type="submit" class="btn btn-primary" style="margin: 10px 0">Submit</button>
+  <input type="submit" class="btn btn-primary" style="margin: 10px 0"></button>
 </form>
 
 ### Advisor Suggestion Form
@@ -272,5 +272,5 @@ Use this form if you have a very serious issue that you want our advisor to help
     <textarea class="form-control" rows="5" id="suggestion" name="suggestion"></textarea>
   </div>
   <div class="g-recaptcha" data-sitekey="6LfmVAETAAAAANhDvy-hhZfjHKOo3TeUC30354LN"></div>
-  <input type="submit" class="btn btn-primary" style="margin: 10px 0">Submit</button>
+  <input type="submit" class="btn btn-primary" style="margin: 10px 0"></button>
 </form>
